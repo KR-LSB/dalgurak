@@ -52,6 +52,7 @@ chore: 기타 변경사항
 - 이승병 (조장)
 - 박찬수
 - 심현채
+- 김진아
 
 ## License
 MIT License
