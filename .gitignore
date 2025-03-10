@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+venv/
+ENV/
+
+# Large files
+models/
+*.safetensors
+*.dylib
+data/recipe_db/
+*.sqlite3
+recipe_db/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env
+dist/
+
+# Project specific
+data/raw/
+data/processed/
+data/vectorstore/
+
+# OS specific
+.DS_Store
+Thumbs.db
