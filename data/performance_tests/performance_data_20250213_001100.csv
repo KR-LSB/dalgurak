@@ -1,0 +1,6 @@
+query,response_time,quality_metrics
+김치찌개 레시피 알려줘,2.002716064453125e-05,"{'completeness': 0.0, 'relevance': 0.0, 'structure': 0.0, 'error': 'Expected where operator to be one of $gt, $gte, $lt, $lte, $ne, $eq, $in, $nin, got quality_score in query.'}"
+양파 대신 뭘 써도 될까요?,2.86102294921875e-06,"{'completeness': 0.0, 'relevance': 0.0, 'structure': 0.0, 'error': 'Expected where operator to be one of $gt, $gte, $lt, $lte, $ne, $eq, $in, $nin, got quality_score in query.'}"
+매운 요리를 맵지 않게 하려면?,2.1457672119140625e-06,"{'completeness': 0.0, 'relevance': 0.0, 'structure': 0.0, 'error': 'Expected where operator to be one of $gt, $gte, $lt, $lte, $ne, $eq, $in, $nin, got quality_score in query.'}"
+초보자도 쉽게 만들 수 있는 요리 추천해줘,2.1457672119140625e-06,"{'completeness': 0.0, 'relevance': 0.0, 'structure': 0.0, 'error': 'Expected where operator to be one of $gt, $gte, $lt, $lte, $ne, $eq, $in, $nin, got quality_score in query.'}"
+된장찌개 끓일 때 팁이 있을까요?,5.245208740234375e-06,"{'completeness': 0.0, 'relevance': 0.0, 'structure': 0.0, 'error': 'Expected where operator to be one of $gt, $gte, $lt, $lte, $ne, $eq, $in, $nin, got quality_score in query.'}"

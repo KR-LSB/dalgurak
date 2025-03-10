@@ -1,0 +1,24 @@
+{
+  "response_time": {
+    "mean": 0.00021467208862304687,
+    "median": 0.000186920166015625,
+    "std": 9.333251499151167e-05,
+    "min": 0.0001468658447265625,
+    "max": 0.000377655029296875,
+    "p95": 0.00034189224243164057
+  },
+  "quality_metrics": {
+    "avg_completeness": 1.0,
+    "avg_relevance": 0.798,
+    "avg_structure": 1.0
+  },
+  "cache_performance": {
+    "hit_rate": 1.0,
+    "cache_vs_uncached_ratio": 0
+  },
+  "error_rate": 0.0,
+  "test_duration": {
+    "start": "2025-02-17T20:15:41.542750",
+    "end": "2025-02-17T20:15:41.543509"
+  }
+}

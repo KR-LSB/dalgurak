@@ -1,0 +1,4 @@
+2025-02-17 20:58:05,988 - RecipeStatistics - INFO - 총 5691개 레시피 분석 시작
+2025-02-17 20:58:06,006 - RecipeStatistics - INFO - 통계 결과를 저장했습니다:
+2025-02-17 20:58:06,006 - RecipeStatistics - INFO - - JSON 통계: data/statistics/recipe_statistics_20250217_205806.json
+2025-02-17 20:58:06,006 - RecipeStatistics - INFO - - 텍스트 리포트: data/statistics/recipe_report_20250217_205806.txt

@@ -1,0 +1,70 @@
+{
+  "10000recipe.com": {
+    "title": {
+      "selectors": [
+        "div.view2_summary h3",
+        "h3.view_title"
+      ],
+      "attribute": "text"
+    },
+    "ingredients": {
+      "container": "div.cont_ingre2",
+      "items": "dd",
+      "name": "span.name",
+      "amount": "span.amount"
+    },
+    "steps": {
+      "container": "div.view_step",
+      "items": "div.view_step_cont",
+      "description": "text"
+    },
+    "metadata": {
+      "time": {
+        "selector": "span.view2_summary_info2",
+        "attribute": "text"
+      },
+      "difficulty": {
+        "selector": "span.view2_summary_info3",
+        "attribute": "text"
+      },
+      "servings": {
+        "selector": "span.view2_summary_info1",
+        "attribute": "text"
+      }
+    }
+  },
+  "haemukja.com": {
+    "title": {
+      "selectors": [
+        "div.view_recipe_title",
+        "h1.rec_title"
+      ],
+      "attribute": "text"
+    },
+    "ingredients": {
+      "container": "div.ready_ingre3",
+      "items": "ul li",
+      "name": "text",
+      "split_pattern": ":"
+    },
+    "steps": {
+      "container": "div.view_step_cont",
+      "items": "div.media",
+      "description": "p"
+    },
+    "metadata": {
+      "time": {
+        "selector": "div.cooking-time",
+        "attribute": "text"
+      },
+      "difficulty": {
+        "selector": "div.difficulty",
+        "attribute": "text"
+      },
+      "servings": {
+        "selector": "div.servings",
+        "attribute": "text"
+      }
+    }
+  }
+}

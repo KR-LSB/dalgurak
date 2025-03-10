@@ -1,0 +1,73 @@
+{
+  "total_recipes": 5691,
+  "category_stats": {
+    "distribution": {
+      "밥/죽/떡": 893,
+      "반찬": 1807,
+      "국/탕/찌개": 869,
+      "면/만두": 839,
+      "기타": 1283
+    },
+    "total_categories": 5,
+    "top_categories": {
+      "반찬": 1807,
+      "기타": 1283,
+      "밥/죽/떡": 893,
+      "국/탕/찌개": 869,
+      "면/만두": 839
+    }
+  },
+  "ingredient_stats": {
+    "avg_ingredients_per_recipe": 9.37,
+    "min_ingredients": 1,
+    "max_ingredients": 71,
+    "most_common_ingredients": {
+      "참기름": 2100,
+      "양파": 2019,
+      "다진마늘": 1789,
+      "대파": 1769,
+      "고춧가루": 1652,
+      "설탕": 1520,
+      "소금": 1476,
+      "간장": 1353,
+      "통깨": 1155,
+      "마늘": 929,
+      "청양고추": 879,
+      "후추": 830,
+      "식용유": 791,
+      "깨소금": 718,
+      "고추장": 684,
+      "당근": 683,
+      "두부": 633,
+      "맛술": 622,
+      "올리고당": 592,
+      "진간장": 525
+    },
+    "total_unique_ingredients": 5582
+  },
+  "step_stats": {
+    "avg_steps_per_recipe": 8.09,
+    "min_steps": 1,
+    "max_steps": 39,
+    "avg_step_length": 45.72,
+    "step_count_distribution": {
+      "1-5": 1456,
+      "6-10": 3131,
+      "11-15": 813,
+      "16+": 291
+    }
+  },
+  "time_stats": {
+    "avg_cooking_time": 32.74,
+    "min_cooking_time": 5,
+    "max_cooking_time": 120,
+    "time_distribution": {
+      "~15분": 1972,
+      "16-30분": 2398,
+      "31-60분": 809,
+      "1-2시간": 386,
+      "2시간+": 0
+    }
+  },
+  "analyzed_at": "2025-02-17T20:58:05.988980"
+}

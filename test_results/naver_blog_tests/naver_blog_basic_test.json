@@ -1,0 +1,24 @@
+{
+  "url": "https://m.blog.naver.com/MobileErrorView.naver?errorType=displayMessage&msg=%ED%95%B4%EB%8B%B9+%EB%B8%94%EB%A1%9C%EA%B7%B8%EA%B0%80+%EC%97%86%EC%8A%B5%EB%8B%88%EB%8B%A4.%3Cbr%2F%3E%EB%B8%94%EB%A1%9C%EA%B7%B8+%EC%95%84%EC%9D%B4%EB%94%94%EB%A5%BC+%ED%99%95%EC%9D%B8%ED%95%B4+%EC%A3%BC%EC%84%B8%EC%9A%94.&pushNavigation=false",
+  "domain": "blog.naver.com",
+  "title": "네이버 블로그",
+  "ingredients": [],
+  "steps": [],
+  "metadata": {
+    "time": {
+      "original": "",
+      "minutes": null
+    },
+    "difficulty": {
+      "original": "",
+      "level": null
+    },
+    "servings": {
+      "original": "",
+      "servings": null
+    }
+  },
+  "extracted_at": "2025-03-10T02:44:06.693545",
+  "extraction_time": 0.0033118724822998047,
+  "parser_type": "범용 파서"
+}

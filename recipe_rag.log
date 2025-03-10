@@ -1,0 +1,1995 @@
+2025-02-13 22:17:04,771 - ERROR - 임베딩 계산 중 오류: argument of type 'OptimizedCache' is not iterable
+2025-02-13 22:17:57,747 - ERROR - 리소스 정리 중 오류 발생: 'OptimizedCache' object has no attribute 'clear'
+2025-02-17 14:53:29,065 - ERROR - 임베딩 계산 중 오류: argument of type 'OptimizedCache' is not iterable
+2025-02-17 14:54:25,286 - ERROR - 리소스 정리 중 오류 발생: 'OptimizedCache' object has no attribute 'clear'
+2025-02-17 14:54:56,435 - ERROR - 임베딩 계산 중 오류: argument of type 'OptimizedCache' is not iterable
+2025-02-17 14:55:57,404 - ERROR - 리소스 정리 중 오류 발생: 'OptimizedCache' object has no attribute 'clear'
+2025-02-17 14:56:33,104 - ERROR - 임베딩 계산 중 오류: argument of type 'OptimizedCache' is not iterable
+2025-02-17 14:57:33,841 - ERROR - 리소스 정리 중 오류 발생: 'OptimizedCache' object has no attribute 'clear'
+2025-02-17 14:59:38,884 - INFO - Saved 9 embeddings
+2025-02-17 14:59:38,884 - INFO - Precomputed 9 common embeddings
+2025-02-17 15:01:12,497 - INFO - 리소스 정리 완료
+2025-02-17 15:04:41,808 - INFO - Loaded 9 precomputed embeddings
+2025-02-17 15:04:42,372 - WARNING - No context found for query: 김치찌개 레시피 알려줘
+2025-02-17 15:04:42,372 - INFO - Generating response for query: 김치찌개 레시피 알려줘
+2025-02-17 15:04:50,389 - INFO - Response generated successfully
+2025-02-17 15:04:50,390 - INFO - Response cached
+2025-02-17 15:04:51,395 - INFO - Cache hit for query: 김치찌개 레시피 알려줘
+2025-02-17 15:04:51,468 - INFO - Cache hit for query: 김치찌개 레시피 알려줘
+2025-02-17 15:04:51,929 - WARNING - No context found for query: 양파 대신 뭘 써도 될까요?
+2025-02-17 15:04:51,929 - INFO - Generating response for query: 양파 대신 뭘 써도 될까요?
+2025-02-17 15:05:01,279 - INFO - Response generated successfully
+2025-02-17 15:05:01,279 - INFO - Response cached
+2025-02-17 15:05:01,653 - WARNING - No context found for query: 매운 요리를 맵지 않게 하려면?
+2025-02-17 15:05:01,654 - INFO - Generating response for query: 매운 요리를 맵지 않게 하려면?
+2025-02-17 15:05:13,121 - INFO - Response generated successfully
+2025-02-17 15:05:13,122 - INFO - Response cached
+2025-02-17 15:05:13,639 - WARNING - No context found for query: 초보자도 쉽게 만들 수 있는 요리 추천해줘
+2025-02-17 15:05:13,639 - INFO - Generating response for query: 초보자도 쉽게 만들 수 있는 요리 추천해줘
+2025-02-17 15:05:26,026 - INFO - Response generated successfully
+2025-02-17 15:05:26,026 - INFO - Response cached
+2025-02-17 15:05:26,543 - WARNING - No context found for query: 된장찌개 끓일 때 팁이 있을까요?
+2025-02-17 15:05:26,543 - INFO - Generating response for query: 된장찌개 끓일 때 팁이 있을까요?
+2025-02-17 15:05:40,563 - INFO - Response generated successfully
+2025-02-17 15:05:40,564 - INFO - Response cached
+2025-02-17 15:05:40,636 - INFO - Cache hit for query: 김치찌개 레시피 알려줘
+2025-02-17 15:05:40,636 - INFO - Cache hit for query: 양파 대신 뭘 써도 될까요?
+2025-02-17 15:05:40,636 - INFO - Cache hit for query: 매운 요리를 맵지 않게 하려면?
+2025-02-17 15:05:40,636 - INFO - Cache hit for query: 초보자도 쉽게 만들 수 있는 요리 추천해줘
+2025-02-17 15:05:40,637 - INFO - Cache hit for query: 된장찌개 끓일 때 팁이 있을까요?
+2025-02-17 15:05:40,680 - INFO - 리소스 정리 완료
+2025-02-17 15:06:49,805 - INFO - Loaded 9 precomputed embeddings
+2025-02-17 15:06:50,324 - WARNING - No context found for query: 김치찌개 레시피 알려줘
+2025-02-17 15:06:50,324 - INFO - Generating response for query: 김치찌개 레시피 알려줘
+2025-02-17 15:07:00,549 - INFO - Response generated successfully
+2025-02-17 15:07:00,550 - INFO - Response cached
+2025-02-17 15:07:01,552 - INFO - Cache hit for query: 김치찌개 레시피 알려줘
+2025-02-17 15:07:01,624 - INFO - Cache hit for query: 김치찌개 레시피 알려줘
+2025-02-17 15:07:02,183 - WARNING - No context found for query: 양파 대신 뭘 써도 될까요?
+2025-02-17 15:07:02,183 - INFO - Generating response for query: 양파 대신 뭘 써도 될까요?
+2025-02-17 15:07:13,341 - INFO - Response generated successfully
+2025-02-17 15:07:13,341 - INFO - Response cached
+2025-02-17 15:07:13,629 - WARNING - No context found for query: 매운 요리를 맵지 않게 하려면?
+2025-02-17 15:07:13,629 - INFO - Generating response for query: 매운 요리를 맵지 않게 하려면?
+2025-02-17 15:07:22,555 - INFO - Response generated successfully
+2025-02-17 15:07:22,556 - INFO - Response cached
+2025-02-17 15:07:22,868 - WARNING - No context found for query: 초보자도 쉽게 만들 수 있는 요리 추천해줘
+2025-02-17 15:07:22,868 - INFO - Generating response for query: 초보자도 쉽게 만들 수 있는 요리 추천해줘
+2025-02-17 15:07:29,929 - INFO - Response generated successfully
+2025-02-17 15:07:29,929 - INFO - Response cached
+2025-02-17 15:07:30,755 - WARNING - No context found for query: 된장찌개 끓일 때 팁이 있을까요?
+2025-02-17 15:07:30,755 - INFO - Generating response for query: 된장찌개 끓일 때 팁이 있을까요?
+2025-02-17 15:07:41,972 - INFO - Response generated successfully
+2025-02-17 15:07:41,972 - INFO - Response cached
+2025-02-17 15:07:42,040 - INFO - Cache hit for query: 김치찌개 레시피 알려줘
+2025-02-17 15:07:42,040 - INFO - Cache hit for query: 양파 대신 뭘 써도 될까요?
+2025-02-17 15:07:42,040 - INFO - Cache hit for query: 매운 요리를 맵지 않게 하려면?
+2025-02-17 15:07:42,040 - INFO - Cache hit for query: 초보자도 쉽게 만들 수 있는 요리 추천해줘
+2025-02-17 15:07:42,041 - INFO - Cache hit for query: 된장찌개 끓일 때 팁이 있을까요?
+2025-02-17 15:07:42,083 - INFO - 리소스 정리 완료
+2025-02-17 20:14:43,347 - INFO - Loaded 9 precomputed embeddings
+2025-02-17 20:14:44,384 - WARNING - No context found for query: 김치찌개 레시피 알려줘
+2025-02-17 20:14:44,384 - INFO - Generating response for query: 김치찌개 레시피 알려줘
+2025-02-17 20:14:57,770 - INFO - Response generated successfully
+2025-02-17 20:14:57,771 - INFO - Response cached
+2025-02-17 20:14:58,776 - INFO - Cache hit for query: 김치찌개 레시피 알려줘
+2025-02-17 20:14:58,848 - INFO - Cache hit for query: 김치찌개 레시피 알려줘
+2025-02-17 20:14:59,701 - WARNING - No context found for query: 양파 대신 뭘 써도 될까요?
+2025-02-17 20:14:59,702 - INFO - Generating response for query: 양파 대신 뭘 써도 될까요?
+2025-02-17 20:15:07,057 - INFO - Response generated successfully
+2025-02-17 20:15:07,058 - INFO - Response cached
+2025-02-17 20:15:07,787 - WARNING - No context found for query: 매운 요리를 맵지 않게 하려면?
+2025-02-17 20:15:07,787 - INFO - Generating response for query: 매운 요리를 맵지 않게 하려면?
+2025-02-17 20:15:17,400 - INFO - Response generated successfully
+2025-02-17 20:15:17,401 - INFO - Response cached
+2025-02-17 20:15:18,222 - WARNING - No context found for query: 초보자도 쉽게 만들 수 있는 요리 추천해줘
+2025-02-17 20:15:18,222 - INFO - Generating response for query: 초보자도 쉽게 만들 수 있는 요리 추천해줘
+2025-02-17 20:15:29,586 - INFO - Response generated successfully
+2025-02-17 20:15:29,587 - INFO - Response cached
+2025-02-17 20:15:30,102 - WARNING - No context found for query: 된장찌개 끓일 때 팁이 있을까요?
+2025-02-17 20:15:30,102 - INFO - Generating response for query: 된장찌개 끓일 때 팁이 있을까요?
+2025-02-17 20:15:41,465 - INFO - Response generated successfully
+2025-02-17 20:15:41,466 - INFO - Response cached
+2025-02-17 20:15:41,542 - INFO - Cache hit for query: 김치찌개 레시피 알려줘
+2025-02-17 20:15:41,542 - INFO - Cache hit for query: 양파 대신 뭘 써도 될까요?
+2025-02-17 20:15:41,543 - INFO - Cache hit for query: 매운 요리를 맵지 않게 하려면?
+2025-02-17 20:15:41,543 - INFO - Cache hit for query: 초보자도 쉽게 만들 수 있는 요리 추천해줘
+2025-02-17 20:15:41,543 - INFO - Cache hit for query: 된장찌개 끓일 때 팁이 있을까요?
+2025-02-17 20:15:41,584 - INFO - 리소스 정리 완료
+2025-02-18 13:27:39,270 - INFO - Loaded 9 precomputed embeddings
+2025-02-18 13:27:40,903 - ERROR - 컨텍스트 검색 중 오류: Connection error.
+2025-02-18 13:27:40,903 - WARNING - No context found for query: 김치찌개 레시피 알려줘
+2025-02-18 13:27:40,903 - INFO - Generating response for query: 김치찌개 레시피 알려줘
+2025-02-18 13:27:42,191 - ERROR - Response generation error: Connection error.
+2025-02-18 13:27:42,191 - ERROR - Error in ask method: Connection error.
+2025-02-18 13:27:42,199 - ERROR - Detailed traceback: Traceback (most recent call last):
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection.py", line 101, in handle_request
+    raise exc
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection.py", line 78, in handle_request
+    stream = self._connect(request)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection.py", line 124, in _connect
+    stream = self._network_backend.connect_tcp(**kwargs)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_backends/sync.py", line 215, in connect_tcp
+    sock.setsockopt(socket.IPPROTO_TCP, socket.TCP_NODELAY, 1)
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectError: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 996, in _request
+    response = self._client.send(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectError: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py", line 573, in ask
+    response = self.qa_chain.invoke({
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain/chains/base.py", line 170, in invoke
+    raise e
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain/chains/base.py", line 160, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain/chains/conversational_retrieval/base.py", line 159, in _call
+    docs = self._get_docs(new_question, inputs, run_manager=_run_manager)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain/chains/conversational_retrieval/base.py", line 396, in _get_docs
+    docs = self.retriever.invoke(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_core/retrievers.py", line 259, in invoke
+    result = self._get_relevant_documents(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_core/vectorstores/base.py", line 1073, in _get_relevant_documents
+    docs = self.vectorstore.similarity_search(query, **_kwargs)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_chroma/vectorstores.py", line 606, in similarity_search
+    docs_and_scores = self.similarity_search_with_score(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_chroma/vectorstores.py", line 703, in similarity_search_with_score
+    query_embedding = self._embedding_function.embed_query(query)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_openai/embeddings/base.py", line 629, in embed_query
+    return self.embed_documents([text])[0]
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_openai/embeddings/base.py", line 588, in embed_documents
+    return self._get_len_safe_embeddings(texts, engine=engine)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_openai/embeddings/base.py", line 483, in _get_len_safe_embeddings
+    response = self.client.create(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/resources/embeddings.py", line 125, in create
+    return self._post(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1283, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 960, in request
+    return self._request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1020, in _request
+    return self._retry_request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1098, in _retry_request
+    return self._request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1020, in _request
+    return self._retry_request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1098, in _retry_request
+    return self._request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1030, in _request
+    raise APIConnectionError(request=request) from err
+openai.APIConnectionError: Connection error.
+
+2025-02-18 13:27:44,476 - ERROR - 컨텍스트 검색 중 오류: Connection error.
+2025-02-18 13:27:44,477 - WARNING - No context found for query: 김치찌개 레시피 알려줘
+2025-02-18 13:27:44,477 - INFO - Generating response for query: 김치찌개 레시피 알려줘
+2025-02-18 13:27:45,723 - ERROR - Response generation error: Connection error.
+2025-02-18 13:27:45,724 - ERROR - Error in ask method: Connection error.
+2025-02-18 13:27:45,726 - ERROR - Detailed traceback: Traceback (most recent call last):
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection.py", line 101, in handle_request
+    raise exc
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection.py", line 78, in handle_request
+    stream = self._connect(request)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection.py", line 124, in _connect
+    stream = self._network_backend.connect_tcp(**kwargs)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_backends/sync.py", line 215, in connect_tcp
+    sock.setsockopt(socket.IPPROTO_TCP, socket.TCP_NODELAY, 1)
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectError: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 996, in _request
+    response = self._client.send(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectError: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py", line 573, in ask
+    response = self.qa_chain.invoke({
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain/chains/base.py", line 170, in invoke
+    raise e
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain/chains/base.py", line 160, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain/chains/conversational_retrieval/base.py", line 159, in _call
+    docs = self._get_docs(new_question, inputs, run_manager=_run_manager)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain/chains/conversational_retrieval/base.py", line 396, in _get_docs
+    docs = self.retriever.invoke(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_core/retrievers.py", line 259, in invoke
+    result = self._get_relevant_documents(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_core/vectorstores/base.py", line 1073, in _get_relevant_documents
+    docs = self.vectorstore.similarity_search(query, **_kwargs)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_chroma/vectorstores.py", line 606, in similarity_search
+    docs_and_scores = self.similarity_search_with_score(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_chroma/vectorstores.py", line 703, in similarity_search_with_score
+    query_embedding = self._embedding_function.embed_query(query)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_openai/embeddings/base.py", line 629, in embed_query
+    return self.embed_documents([text])[0]
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_openai/embeddings/base.py", line 588, in embed_documents
+    return self._get_len_safe_embeddings(texts, engine=engine)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_openai/embeddings/base.py", line 483, in _get_len_safe_embeddings
+    response = self.client.create(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/resources/embeddings.py", line 125, in create
+    return self._post(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1283, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 960, in request
+    return self._request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1020, in _request
+    return self._retry_request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1098, in _retry_request
+    return self._request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1020, in _request
+    return self._retry_request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1098, in _retry_request
+    return self._request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1030, in _request
+    raise APIConnectionError(request=request) from err
+openai.APIConnectionError: Connection error.
+
+2025-02-18 13:27:47,143 - ERROR - 컨텍스트 검색 중 오류: Connection error.
+2025-02-18 13:27:47,143 - WARNING - No context found for query: 김치찌개 레시피 알려줘
+2025-02-18 13:27:47,143 - INFO - Generating response for query: 김치찌개 레시피 알려줘
+2025-02-18 13:27:48,554 - ERROR - Response generation error: Connection error.
+2025-02-18 13:27:48,555 - ERROR - Error in ask method: Connection error.
+2025-02-18 13:27:48,557 - ERROR - Detailed traceback: Traceback (most recent call last):
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection.py", line 101, in handle_request
+    raise exc
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection.py", line 78, in handle_request
+    stream = self._connect(request)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection.py", line 124, in _connect
+    stream = self._network_backend.connect_tcp(**kwargs)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_backends/sync.py", line 215, in connect_tcp
+    sock.setsockopt(socket.IPPROTO_TCP, socket.TCP_NODELAY, 1)
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectError: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 996, in _request
+    response = self._client.send(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectError: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py", line 573, in ask
+    response = self.qa_chain.invoke({
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain/chains/base.py", line 170, in invoke
+    raise e
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain/chains/base.py", line 160, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain/chains/conversational_retrieval/base.py", line 159, in _call
+    docs = self._get_docs(new_question, inputs, run_manager=_run_manager)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain/chains/conversational_retrieval/base.py", line 396, in _get_docs
+    docs = self.retriever.invoke(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_core/retrievers.py", line 259, in invoke
+    result = self._get_relevant_documents(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_core/vectorstores/base.py", line 1073, in _get_relevant_documents
+    docs = self.vectorstore.similarity_search(query, **_kwargs)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_chroma/vectorstores.py", line 606, in similarity_search
+    docs_and_scores = self.similarity_search_with_score(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_chroma/vectorstores.py", line 703, in similarity_search_with_score
+    query_embedding = self._embedding_function.embed_query(query)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_openai/embeddings/base.py", line 629, in embed_query
+    return self.embed_documents([text])[0]
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_openai/embeddings/base.py", line 588, in embed_documents
+    return self._get_len_safe_embeddings(texts, engine=engine)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_openai/embeddings/base.py", line 483, in _get_len_safe_embeddings
+    response = self.client.create(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/resources/embeddings.py", line 125, in create
+    return self._post(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1283, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 960, in request
+    return self._request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1020, in _request
+    return self._retry_request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1098, in _retry_request
+    return self._request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1020, in _request
+    return self._retry_request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1098, in _retry_request
+    return self._request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1030, in _request
+    raise APIConnectionError(request=request) from err
+openai.APIConnectionError: Connection error.
+
+2025-02-18 13:27:49,903 - ERROR - 컨텍스트 검색 중 오류: Connection error.
+2025-02-18 13:27:49,904 - WARNING - No context found for query: 양파 대신 뭘 써도 될까요?
+2025-02-18 13:27:49,904 - INFO - Generating response for query: 양파 대신 뭘 써도 될까요?
+2025-02-18 13:27:51,158 - ERROR - Response generation error: Connection error.
+2025-02-18 13:27:51,159 - ERROR - Error in ask method: Connection error.
+2025-02-18 13:27:51,161 - ERROR - Detailed traceback: Traceback (most recent call last):
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection.py", line 101, in handle_request
+    raise exc
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection.py", line 78, in handle_request
+    stream = self._connect(request)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection.py", line 124, in _connect
+    stream = self._network_backend.connect_tcp(**kwargs)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_backends/sync.py", line 215, in connect_tcp
+    sock.setsockopt(socket.IPPROTO_TCP, socket.TCP_NODELAY, 1)
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectError: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 996, in _request
+    response = self._client.send(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectError: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py", line 573, in ask
+    response = self.qa_chain.invoke({
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain/chains/base.py", line 170, in invoke
+    raise e
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain/chains/base.py", line 160, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain/chains/conversational_retrieval/base.py", line 159, in _call
+    docs = self._get_docs(new_question, inputs, run_manager=_run_manager)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain/chains/conversational_retrieval/base.py", line 396, in _get_docs
+    docs = self.retriever.invoke(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_core/retrievers.py", line 259, in invoke
+    result = self._get_relevant_documents(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_core/vectorstores/base.py", line 1073, in _get_relevant_documents
+    docs = self.vectorstore.similarity_search(query, **_kwargs)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_chroma/vectorstores.py", line 606, in similarity_search
+    docs_and_scores = self.similarity_search_with_score(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_chroma/vectorstores.py", line 703, in similarity_search_with_score
+    query_embedding = self._embedding_function.embed_query(query)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_openai/embeddings/base.py", line 629, in embed_query
+    return self.embed_documents([text])[0]
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_openai/embeddings/base.py", line 588, in embed_documents
+    return self._get_len_safe_embeddings(texts, engine=engine)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_openai/embeddings/base.py", line 483, in _get_len_safe_embeddings
+    response = self.client.create(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/resources/embeddings.py", line 125, in create
+    return self._post(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1283, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 960, in request
+    return self._request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1020, in _request
+    return self._retry_request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1098, in _retry_request
+    return self._request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1020, in _request
+    return self._retry_request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1098, in _retry_request
+    return self._request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1030, in _request
+    raise APIConnectionError(request=request) from err
+openai.APIConnectionError: Connection error.
+
+2025-02-18 13:27:52,432 - ERROR - 컨텍스트 검색 중 오류: Connection error.
+2025-02-18 13:27:52,432 - WARNING - No context found for query: 매운 요리를 맵지 않게 하려면?
+2025-02-18 13:27:52,433 - INFO - Generating response for query: 매운 요리를 맵지 않게 하려면?
+2025-02-18 13:27:53,830 - ERROR - Response generation error: Connection error.
+2025-02-18 13:27:53,830 - ERROR - Error in ask method: Connection error.
+2025-02-18 13:27:53,833 - ERROR - Detailed traceback: Traceback (most recent call last):
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection.py", line 101, in handle_request
+    raise exc
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection.py", line 78, in handle_request
+    stream = self._connect(request)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection.py", line 124, in _connect
+    stream = self._network_backend.connect_tcp(**kwargs)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_backends/sync.py", line 215, in connect_tcp
+    sock.setsockopt(socket.IPPROTO_TCP, socket.TCP_NODELAY, 1)
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectError: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 996, in _request
+    response = self._client.send(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectError: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py", line 573, in ask
+    response = self.qa_chain.invoke({
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain/chains/base.py", line 170, in invoke
+    raise e
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain/chains/base.py", line 160, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain/chains/conversational_retrieval/base.py", line 159, in _call
+    docs = self._get_docs(new_question, inputs, run_manager=_run_manager)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain/chains/conversational_retrieval/base.py", line 396, in _get_docs
+    docs = self.retriever.invoke(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_core/retrievers.py", line 259, in invoke
+    result = self._get_relevant_documents(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_core/vectorstores/base.py", line 1073, in _get_relevant_documents
+    docs = self.vectorstore.similarity_search(query, **_kwargs)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_chroma/vectorstores.py", line 606, in similarity_search
+    docs_and_scores = self.similarity_search_with_score(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_chroma/vectorstores.py", line 703, in similarity_search_with_score
+    query_embedding = self._embedding_function.embed_query(query)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_openai/embeddings/base.py", line 629, in embed_query
+    return self.embed_documents([text])[0]
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_openai/embeddings/base.py", line 588, in embed_documents
+    return self._get_len_safe_embeddings(texts, engine=engine)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_openai/embeddings/base.py", line 483, in _get_len_safe_embeddings
+    response = self.client.create(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/resources/embeddings.py", line 125, in create
+    return self._post(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1283, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 960, in request
+    return self._request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1020, in _request
+    return self._retry_request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1098, in _retry_request
+    return self._request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1020, in _request
+    return self._retry_request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1098, in _retry_request
+    return self._request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1030, in _request
+    raise APIConnectionError(request=request) from err
+openai.APIConnectionError: Connection error.
+
+2025-02-18 13:27:55,205 - ERROR - 컨텍스트 검색 중 오류: Connection error.
+2025-02-18 13:27:55,205 - WARNING - No context found for query: 초보자도 쉽게 만들 수 있는 요리 추천해줘
+2025-02-18 13:27:55,205 - INFO - Generating response for query: 초보자도 쉽게 만들 수 있는 요리 추천해줘
+2025-02-18 13:27:56,558 - ERROR - Response generation error: Connection error.
+2025-02-18 13:27:56,558 - ERROR - Error in ask method: Connection error.
+2025-02-18 13:27:56,561 - ERROR - Detailed traceback: Traceback (most recent call last):
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection.py", line 101, in handle_request
+    raise exc
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection.py", line 78, in handle_request
+    stream = self._connect(request)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection.py", line 124, in _connect
+    stream = self._network_backend.connect_tcp(**kwargs)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_backends/sync.py", line 215, in connect_tcp
+    sock.setsockopt(socket.IPPROTO_TCP, socket.TCP_NODELAY, 1)
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectError: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 996, in _request
+    response = self._client.send(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectError: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py", line 573, in ask
+    response = self.qa_chain.invoke({
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain/chains/base.py", line 170, in invoke
+    raise e
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain/chains/base.py", line 160, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain/chains/conversational_retrieval/base.py", line 159, in _call
+    docs = self._get_docs(new_question, inputs, run_manager=_run_manager)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain/chains/conversational_retrieval/base.py", line 396, in _get_docs
+    docs = self.retriever.invoke(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_core/retrievers.py", line 259, in invoke
+    result = self._get_relevant_documents(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_core/vectorstores/base.py", line 1073, in _get_relevant_documents
+    docs = self.vectorstore.similarity_search(query, **_kwargs)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_chroma/vectorstores.py", line 606, in similarity_search
+    docs_and_scores = self.similarity_search_with_score(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_chroma/vectorstores.py", line 703, in similarity_search_with_score
+    query_embedding = self._embedding_function.embed_query(query)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_openai/embeddings/base.py", line 629, in embed_query
+    return self.embed_documents([text])[0]
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_openai/embeddings/base.py", line 588, in embed_documents
+    return self._get_len_safe_embeddings(texts, engine=engine)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_openai/embeddings/base.py", line 483, in _get_len_safe_embeddings
+    response = self.client.create(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/resources/embeddings.py", line 125, in create
+    return self._post(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1283, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 960, in request
+    return self._request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1020, in _request
+    return self._retry_request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1098, in _retry_request
+    return self._request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1020, in _request
+    return self._retry_request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1098, in _retry_request
+    return self._request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1030, in _request
+    raise APIConnectionError(request=request) from err
+openai.APIConnectionError: Connection error.
+
+2025-02-18 13:27:57,864 - ERROR - 컨텍스트 검색 중 오류: Connection error.
+2025-02-18 13:27:57,864 - WARNING - No context found for query: 된장찌개 끓일 때 팁이 있을까요?
+2025-02-18 13:27:57,864 - INFO - Generating response for query: 된장찌개 끓일 때 팁이 있을까요?
+2025-02-18 13:27:59,151 - ERROR - Response generation error: Connection error.
+2025-02-18 13:27:59,151 - ERROR - Error in ask method: Connection error.
+2025-02-18 13:27:59,154 - ERROR - Detailed traceback: Traceback (most recent call last):
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection.py", line 101, in handle_request
+    raise exc
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection.py", line 78, in handle_request
+    stream = self._connect(request)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection.py", line 124, in _connect
+    stream = self._network_backend.connect_tcp(**kwargs)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_backends/sync.py", line 215, in connect_tcp
+    sock.setsockopt(socket.IPPROTO_TCP, socket.TCP_NODELAY, 1)
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectError: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 996, in _request
+    response = self._client.send(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectError: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py", line 573, in ask
+    response = self.qa_chain.invoke({
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain/chains/base.py", line 170, in invoke
+    raise e
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain/chains/base.py", line 160, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain/chains/conversational_retrieval/base.py", line 159, in _call
+    docs = self._get_docs(new_question, inputs, run_manager=_run_manager)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain/chains/conversational_retrieval/base.py", line 396, in _get_docs
+    docs = self.retriever.invoke(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_core/retrievers.py", line 259, in invoke
+    result = self._get_relevant_documents(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_core/vectorstores/base.py", line 1073, in _get_relevant_documents
+    docs = self.vectorstore.similarity_search(query, **_kwargs)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_chroma/vectorstores.py", line 606, in similarity_search
+    docs_and_scores = self.similarity_search_with_score(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_chroma/vectorstores.py", line 703, in similarity_search_with_score
+    query_embedding = self._embedding_function.embed_query(query)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_openai/embeddings/base.py", line 629, in embed_query
+    return self.embed_documents([text])[0]
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_openai/embeddings/base.py", line 588, in embed_documents
+    return self._get_len_safe_embeddings(texts, engine=engine)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_openai/embeddings/base.py", line 483, in _get_len_safe_embeddings
+    response = self.client.create(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/resources/embeddings.py", line 125, in create
+    return self._post(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1283, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 960, in request
+    return self._request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1020, in _request
+    return self._retry_request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1098, in _retry_request
+    return self._request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1020, in _request
+    return self._retry_request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1098, in _retry_request
+    return self._request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1030, in _request
+    raise APIConnectionError(request=request) from err
+openai.APIConnectionError: Connection error.
+
+2025-02-18 13:28:00,572 - ERROR - 컨텍스트 검색 중 오류: Connection error.
+2025-02-18 13:28:00,572 - WARNING - No context found for query: 김치찌개 레시피 알려줘
+2025-02-18 13:28:00,572 - INFO - Generating response for query: 김치찌개 레시피 알려줘
+2025-02-18 13:28:01,939 - ERROR - Response generation error: Connection error.
+2025-02-18 13:28:01,940 - ERROR - Error in ask method: Connection error.
+2025-02-18 13:28:01,942 - ERROR - Detailed traceback: Traceback (most recent call last):
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection.py", line 101, in handle_request
+    raise exc
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection.py", line 78, in handle_request
+    stream = self._connect(request)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection.py", line 124, in _connect
+    stream = self._network_backend.connect_tcp(**kwargs)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_backends/sync.py", line 215, in connect_tcp
+    sock.setsockopt(socket.IPPROTO_TCP, socket.TCP_NODELAY, 1)
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectError: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 996, in _request
+    response = self._client.send(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectError: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py", line 573, in ask
+    response = self.qa_chain.invoke({
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain/chains/base.py", line 170, in invoke
+    raise e
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain/chains/base.py", line 160, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain/chains/conversational_retrieval/base.py", line 159, in _call
+    docs = self._get_docs(new_question, inputs, run_manager=_run_manager)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain/chains/conversational_retrieval/base.py", line 396, in _get_docs
+    docs = self.retriever.invoke(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_core/retrievers.py", line 259, in invoke
+    result = self._get_relevant_documents(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_core/vectorstores/base.py", line 1073, in _get_relevant_documents
+    docs = self.vectorstore.similarity_search(query, **_kwargs)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_chroma/vectorstores.py", line 606, in similarity_search
+    docs_and_scores = self.similarity_search_with_score(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_chroma/vectorstores.py", line 703, in similarity_search_with_score
+    query_embedding = self._embedding_function.embed_query(query)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_openai/embeddings/base.py", line 629, in embed_query
+    return self.embed_documents([text])[0]
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_openai/embeddings/base.py", line 588, in embed_documents
+    return self._get_len_safe_embeddings(texts, engine=engine)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_openai/embeddings/base.py", line 483, in _get_len_safe_embeddings
+    response = self.client.create(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/resources/embeddings.py", line 125, in create
+    return self._post(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1283, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 960, in request
+    return self._request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1020, in _request
+    return self._retry_request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1098, in _retry_request
+    return self._request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1020, in _request
+    return self._retry_request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1098, in _retry_request
+    return self._request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1030, in _request
+    raise APIConnectionError(request=request) from err
+openai.APIConnectionError: Connection error.
+
+2025-02-18 13:28:03,201 - ERROR - 컨텍스트 검색 중 오류: Connection error.
+2025-02-18 13:28:03,202 - WARNING - No context found for query: 양파 대신 뭘 써도 될까요?
+2025-02-18 13:28:03,202 - INFO - Generating response for query: 양파 대신 뭘 써도 될까요?
+2025-02-18 13:28:04,676 - ERROR - Response generation error: Connection error.
+2025-02-18 13:28:04,677 - ERROR - Error in ask method: Connection error.
+2025-02-18 13:28:04,679 - ERROR - Detailed traceback: Traceback (most recent call last):
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection.py", line 101, in handle_request
+    raise exc
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection.py", line 78, in handle_request
+    stream = self._connect(request)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection.py", line 124, in _connect
+    stream = self._network_backend.connect_tcp(**kwargs)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_backends/sync.py", line 215, in connect_tcp
+    sock.setsockopt(socket.IPPROTO_TCP, socket.TCP_NODELAY, 1)
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectError: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 996, in _request
+    response = self._client.send(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectError: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py", line 573, in ask
+    response = self.qa_chain.invoke({
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain/chains/base.py", line 170, in invoke
+    raise e
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain/chains/base.py", line 160, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain/chains/conversational_retrieval/base.py", line 159, in _call
+    docs = self._get_docs(new_question, inputs, run_manager=_run_manager)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain/chains/conversational_retrieval/base.py", line 396, in _get_docs
+    docs = self.retriever.invoke(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_core/retrievers.py", line 259, in invoke
+    result = self._get_relevant_documents(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_core/vectorstores/base.py", line 1073, in _get_relevant_documents
+    docs = self.vectorstore.similarity_search(query, **_kwargs)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_chroma/vectorstores.py", line 606, in similarity_search
+    docs_and_scores = self.similarity_search_with_score(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_chroma/vectorstores.py", line 703, in similarity_search_with_score
+    query_embedding = self._embedding_function.embed_query(query)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_openai/embeddings/base.py", line 629, in embed_query
+    return self.embed_documents([text])[0]
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_openai/embeddings/base.py", line 588, in embed_documents
+    return self._get_len_safe_embeddings(texts, engine=engine)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_openai/embeddings/base.py", line 483, in _get_len_safe_embeddings
+    response = self.client.create(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/resources/embeddings.py", line 125, in create
+    return self._post(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1283, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 960, in request
+    return self._request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1020, in _request
+    return self._retry_request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1098, in _retry_request
+    return self._request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1020, in _request
+    return self._retry_request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1098, in _retry_request
+    return self._request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1030, in _request
+    raise APIConnectionError(request=request) from err
+openai.APIConnectionError: Connection error.
+
+2025-02-18 13:28:05,984 - ERROR - 컨텍스트 검색 중 오류: Connection error.
+2025-02-18 13:28:05,984 - WARNING - No context found for query: 매운 요리를 맵지 않게 하려면?
+2025-02-18 13:28:05,984 - INFO - Generating response for query: 매운 요리를 맵지 않게 하려면?
+2025-02-18 13:28:07,222 - ERROR - Response generation error: Connection error.
+2025-02-18 13:28:07,223 - ERROR - Error in ask method: Connection error.
+2025-02-18 13:28:07,225 - ERROR - Detailed traceback: Traceback (most recent call last):
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection.py", line 101, in handle_request
+    raise exc
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection.py", line 78, in handle_request
+    stream = self._connect(request)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection.py", line 124, in _connect
+    stream = self._network_backend.connect_tcp(**kwargs)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_backends/sync.py", line 215, in connect_tcp
+    sock.setsockopt(socket.IPPROTO_TCP, socket.TCP_NODELAY, 1)
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectError: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 996, in _request
+    response = self._client.send(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectError: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py", line 573, in ask
+    response = self.qa_chain.invoke({
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain/chains/base.py", line 170, in invoke
+    raise e
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain/chains/base.py", line 160, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain/chains/conversational_retrieval/base.py", line 159, in _call
+    docs = self._get_docs(new_question, inputs, run_manager=_run_manager)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain/chains/conversational_retrieval/base.py", line 396, in _get_docs
+    docs = self.retriever.invoke(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_core/retrievers.py", line 259, in invoke
+    result = self._get_relevant_documents(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_core/vectorstores/base.py", line 1073, in _get_relevant_documents
+    docs = self.vectorstore.similarity_search(query, **_kwargs)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_chroma/vectorstores.py", line 606, in similarity_search
+    docs_and_scores = self.similarity_search_with_score(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_chroma/vectorstores.py", line 703, in similarity_search_with_score
+    query_embedding = self._embedding_function.embed_query(query)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_openai/embeddings/base.py", line 629, in embed_query
+    return self.embed_documents([text])[0]
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_openai/embeddings/base.py", line 588, in embed_documents
+    return self._get_len_safe_embeddings(texts, engine=engine)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_openai/embeddings/base.py", line 483, in _get_len_safe_embeddings
+    response = self.client.create(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/resources/embeddings.py", line 125, in create
+    return self._post(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1283, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 960, in request
+    return self._request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1020, in _request
+    return self._retry_request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1098, in _retry_request
+    return self._request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1020, in _request
+    return self._retry_request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1098, in _retry_request
+    return self._request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1030, in _request
+    raise APIConnectionError(request=request) from err
+openai.APIConnectionError: Connection error.
+
+2025-02-18 13:28:08,606 - ERROR - 컨텍스트 검색 중 오류: Connection error.
+2025-02-18 13:28:08,607 - WARNING - No context found for query: 초보자도 쉽게 만들 수 있는 요리 추천해줘
+2025-02-18 13:28:08,607 - INFO - Generating response for query: 초보자도 쉽게 만들 수 있는 요리 추천해줘
+2025-02-18 13:28:09,906 - ERROR - Response generation error: Connection error.
+2025-02-18 13:28:09,907 - ERROR - Error in ask method: Connection error.
+2025-02-18 13:28:09,909 - ERROR - Detailed traceback: Traceback (most recent call last):
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection.py", line 101, in handle_request
+    raise exc
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection.py", line 78, in handle_request
+    stream = self._connect(request)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection.py", line 124, in _connect
+    stream = self._network_backend.connect_tcp(**kwargs)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_backends/sync.py", line 215, in connect_tcp
+    sock.setsockopt(socket.IPPROTO_TCP, socket.TCP_NODELAY, 1)
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectError: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 996, in _request
+    response = self._client.send(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectError: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py", line 573, in ask
+    response = self.qa_chain.invoke({
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain/chains/base.py", line 170, in invoke
+    raise e
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain/chains/base.py", line 160, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain/chains/conversational_retrieval/base.py", line 159, in _call
+    docs = self._get_docs(new_question, inputs, run_manager=_run_manager)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain/chains/conversational_retrieval/base.py", line 396, in _get_docs
+    docs = self.retriever.invoke(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_core/retrievers.py", line 259, in invoke
+    result = self._get_relevant_documents(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_core/vectorstores/base.py", line 1073, in _get_relevant_documents
+    docs = self.vectorstore.similarity_search(query, **_kwargs)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_chroma/vectorstores.py", line 606, in similarity_search
+    docs_and_scores = self.similarity_search_with_score(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_chroma/vectorstores.py", line 703, in similarity_search_with_score
+    query_embedding = self._embedding_function.embed_query(query)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_openai/embeddings/base.py", line 629, in embed_query
+    return self.embed_documents([text])[0]
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_openai/embeddings/base.py", line 588, in embed_documents
+    return self._get_len_safe_embeddings(texts, engine=engine)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_openai/embeddings/base.py", line 483, in _get_len_safe_embeddings
+    response = self.client.create(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/resources/embeddings.py", line 125, in create
+    return self._post(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1283, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 960, in request
+    return self._request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1020, in _request
+    return self._retry_request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1098, in _retry_request
+    return self._request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1020, in _request
+    return self._retry_request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1098, in _retry_request
+    return self._request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1030, in _request
+    raise APIConnectionError(request=request) from err
+openai.APIConnectionError: Connection error.
+
+2025-02-18 13:28:11,185 - ERROR - 컨텍스트 검색 중 오류: Connection error.
+2025-02-18 13:28:11,185 - WARNING - No context found for query: 된장찌개 끓일 때 팁이 있을까요?
+2025-02-18 13:28:11,185 - INFO - Generating response for query: 된장찌개 끓일 때 팁이 있을까요?
+2025-02-18 13:28:12,488 - ERROR - Response generation error: Connection error.
+2025-02-18 13:28:12,489 - ERROR - Error in ask method: Connection error.
+2025-02-18 13:28:12,490 - ERROR - Detailed traceback: Traceback (most recent call last):
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection.py", line 101, in handle_request
+    raise exc
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection.py", line 78, in handle_request
+    stream = self._connect(request)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_sync/connection.py", line 124, in _connect
+    stream = self._network_backend.connect_tcp(**kwargs)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_backends/sync.py", line 215, in connect_tcp
+    sock.setsockopt(socket.IPPROTO_TCP, socket.TCP_NODELAY, 1)
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectError: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 996, in _request
+    response = self._client.send(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectError: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py", line 573, in ask
+    response = self.qa_chain.invoke({
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain/chains/base.py", line 170, in invoke
+    raise e
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain/chains/base.py", line 160, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain/chains/conversational_retrieval/base.py", line 159, in _call
+    docs = self._get_docs(new_question, inputs, run_manager=_run_manager)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain/chains/conversational_retrieval/base.py", line 396, in _get_docs
+    docs = self.retriever.invoke(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_core/retrievers.py", line 259, in invoke
+    result = self._get_relevant_documents(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_core/vectorstores/base.py", line 1073, in _get_relevant_documents
+    docs = self.vectorstore.similarity_search(query, **_kwargs)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_chroma/vectorstores.py", line 606, in similarity_search
+    docs_and_scores = self.similarity_search_with_score(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_chroma/vectorstores.py", line 703, in similarity_search_with_score
+    query_embedding = self._embedding_function.embed_query(query)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_openai/embeddings/base.py", line 629, in embed_query
+    return self.embed_documents([text])[0]
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_openai/embeddings/base.py", line 588, in embed_documents
+    return self._get_len_safe_embeddings(texts, engine=engine)
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/langchain_openai/embeddings/base.py", line 483, in _get_len_safe_embeddings
+    response = self.client.create(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/resources/embeddings.py", line 125, in create
+    return self._post(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1283, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 960, in request
+    return self._request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1020, in _request
+    return self._retry_request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1098, in _retry_request
+    return self._request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1020, in _request
+    return self._retry_request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1098, in _retry_request
+    return self._request(
+  File "/Users/iseungbyeong/Projects/dalgurak-ai/venv/lib/python3.9/site-packages/openai/_base_client.py", line 1030, in _request
+    raise APIConnectionError(request=request) from err
+openai.APIConnectionError: Connection error.
+
+2025-02-18 13:28:12,567 - INFO - 리소스 정리 완료
+2025-02-18 13:37:34,734 - INFO - Loaded 9 precomputed embeddings
+2025-02-18 13:37:36,765 - WARNING - No context found for query: 김치찌개 레시피 알려줘
+2025-02-18 13:37:36,765 - INFO - Generating response for query: 김치찌개 레시피 알려줘
+2025-02-18 13:37:48,139 - INFO - Response generated successfully
+2025-02-18 13:37:48,140 - INFO - Response cached
+2025-02-18 13:37:49,145 - INFO - Cache hit for query: 김치찌개 레시피 알려줘
+2025-02-18 13:37:49,214 - INFO - Cache hit for query: 김치찌개 레시피 알려줘
+2025-02-18 13:37:51,799 - WARNING - No context found for query: 양파 대신 뭘 써도 될까요?
+2025-02-18 13:37:51,799 - INFO - Generating response for query: 양파 대신 뭘 써도 될까요?
+2025-02-18 13:38:01,623 - INFO - Response generated successfully
+2025-02-18 13:38:01,624 - INFO - Response cached
+2025-02-18 13:38:02,551 - WARNING - No context found for query: 매운 요리를 맵지 않게 하려면?
+2025-02-18 13:38:02,551 - INFO - Generating response for query: 매운 요리를 맵지 않게 하려면?
+2025-02-18 13:38:11,803 - INFO - Response generated successfully
+2025-02-18 13:38:11,804 - INFO - Response cached
+2025-02-18 13:38:12,776 - WARNING - No context found for query: 초보자도 쉽게 만들 수 있는 요리 추천해줘
+2025-02-18 13:38:12,776 - INFO - Generating response for query: 초보자도 쉽게 만들 수 있는 요리 추천해줘
+2025-02-18 13:38:24,358 - INFO - Response generated successfully
+2025-02-18 13:38:24,358 - INFO - Response cached
+2025-02-18 13:38:25,591 - WARNING - No context found for query: 된장찌개 끓일 때 팁이 있을까요?
+2025-02-18 13:38:25,591 - INFO - Generating response for query: 된장찌개 끓일 때 팁이 있을까요?
+2025-02-18 13:38:38,489 - INFO - Response generated successfully
+2025-02-18 13:38:38,490 - INFO - Response cached
+2025-02-18 13:38:38,552 - INFO - Cache hit for query: 김치찌개 레시피 알려줘
+2025-02-18 13:38:38,552 - INFO - Cache hit for query: 양파 대신 뭘 써도 될까요?
+2025-02-18 13:38:38,553 - INFO - Cache hit for query: 매운 요리를 맵지 않게 하려면?
+2025-02-18 13:38:38,553 - INFO - Cache hit for query: 초보자도 쉽게 만들 수 있는 요리 추천해줘
+2025-02-18 13:38:38,553 - INFO - Cache hit for query: 된장찌개 끓일 때 팁이 있을까요?
+2025-02-18 13:38:38,595 - INFO - 리소스 정리 완료
+2025-02-18 14:30:05,016 - INFO - Loaded 9 precomputed embeddings
+2025-02-18 14:30:05,147 - ERROR - 비동기 질문 처리 중 오류 발생: 'OptimizedRecipeRAG' object has no attribute '_compute_embedding_async'
+2025-02-18 14:30:05,147 - ERROR - 비동기 질문 처리 중 오류 발생: 'OptimizedRecipeRAG' object has no attribute '_compute_embedding_async'
+2025-02-18 14:41:53,644 - INFO - Loaded 9 precomputed embeddings
+2025-02-18 14:41:55,028 - ERROR - 비동기 컨텍스트 검색 중 오류: 'OptimizedCache' object does not support item assignment
+2025-02-18 14:41:56,051 - ERROR - 비동기 질문 처리 중 오류 발생: 'OptimizedCache' object does not support item assignment
+2025-02-18 14:41:56,374 - ERROR - 비동기 컨텍스트 검색 중 오류: 'OptimizedCache' object does not support item assignment
+2025-02-18 14:41:57,340 - ERROR - 비동기 질문 처리 중 오류 발생: 'OptimizedCache' object does not support item assignment
+2025-02-18 14:41:58,510 - ERROR - 비동기 컨텍스트 검색 중 오류: 'OptimizedCache' object does not support item assignment
+2025-02-18 14:41:59,762 - ERROR - 비동기 질문 처리 중 오류 발생: 'OptimizedCache' object does not support item assignment
+2025-02-18 14:42:00,593 - ERROR - 비동기 컨텍스트 검색 중 오류: 'OptimizedCache' object does not support item assignment
+2025-02-18 14:42:01,809 - ERROR - 비동기 질문 처리 중 오류 발생: 'OptimizedCache' object does not support item assignment
+2025-02-18 14:42:02,509 - ERROR - 비동기 컨텍스트 검색 중 오류: 'OptimizedCache' object does not support item assignment
+2025-02-18 14:42:03,549 - ERROR - 비동기 컨텍스트 검색 중 오류: 'OptimizedCache' object does not support item assignment
+2025-02-18 14:42:04,360 - ERROR - 비동기 컨텍스트 검색 중 오류: 'OptimizedCache' object does not support item assignment
+2025-02-18 14:42:04,364 - ERROR - 비동기 질문 처리 중 오류 발생: 'OptimizedCache' object does not support item assignment
+2025-02-18 14:42:04,365 - ERROR - 비동기 질문 처리 중 오류 발생: 'OptimizedCache' object does not support item assignment
+2025-02-18 14:42:04,811 - ERROR - 비동기 질문 처리 중 오류 발생: 'OptimizedCache' object does not support item assignment
+2025-02-18 14:42:07,736 - ERROR - 비동기 컨텍스트 검색 중 오류: 'OptimizedCache' object does not support item assignment
+2025-02-18 14:42:08,347 - ERROR - 비동기 컨텍스트 검색 중 오류: 'OptimizedCache' object does not support item assignment
+2025-02-18 14:42:09,270 - ERROR - 비동기 컨텍스트 검색 중 오류: 'OptimizedCache' object does not support item assignment
+2025-02-18 14:42:09,274 - ERROR - 비동기 질문 처리 중 오류 발생: 'OptimizedCache' object does not support item assignment
+2025-02-18 14:42:09,274 - ERROR - 비동기 질문 처리 중 오류 발생: 'OptimizedCache' object does not support item assignment
+2025-02-18 14:42:10,187 - ERROR - 비동기 질문 처리 중 오류 발생: 'OptimizedCache' object does not support item assignment
+2025-02-18 14:42:11,109 - ERROR - 비동기 컨텍스트 검색 중 오류: 'OptimizedCache' object does not support item assignment
+2025-02-18 14:42:12,342 - ERROR - 비동기 컨텍스트 검색 중 오류: 'OptimizedCache' object does not support item assignment
+2025-02-18 14:42:14,794 - ERROR - 비동기 컨텍스트 검색 중 오류: 'OptimizedCache' object does not support item assignment
+2025-02-18 14:42:14,798 - ERROR - 비동기 질문 처리 중 오류 발생: 'OptimizedCache' object does not support item assignment
+2025-02-18 14:42:14,799 - ERROR - 비동기 질문 처리 중 오류 발생: 'OptimizedCache' object does not support item assignment
+2025-02-18 14:42:15,409 - ERROR - 비동기 질문 처리 중 오류 발생: 'OptimizedCache' object does not support item assignment
+2025-02-18 14:42:15,526 - INFO - 리소스 정리 완료
+2025-02-18 22:41:50,372 - INFO - Loaded 9 precomputed embeddings
+2025-02-18 22:41:51,767 - ERROR - 비동기 컨텍스트 검색 중 오류: 'OptimizedCache' object does not support item assignment
+2025-02-18 22:41:52,659 - ERROR - 비동기 질문 처리 중 오류 발생: 'OptimizedCache' object does not support item assignment
+2025-02-18 22:41:53,375 - ERROR - 비동기 컨텍스트 검색 중 오류: 'OptimizedCache' object does not support item assignment
+2025-02-18 22:41:54,161 - ERROR - 비동기 질문 처리 중 오류 발생: 'OptimizedCache' object does not support item assignment
+2025-02-18 22:41:55,015 - ERROR - 비동기 컨텍스트 검색 중 오류: 'OptimizedCache' object does not support item assignment
+2025-02-18 22:41:55,829 - ERROR - 비동기 질문 처리 중 오류 발생: 'OptimizedCache' object does not support item assignment
+2025-02-18 22:41:56,550 - ERROR - 비동기 컨텍스트 검색 중 오류: 'OptimizedCache' object does not support item assignment
+2025-02-18 22:41:57,057 - ERROR - 비동기 질문 처리 중 오류 발생: 'OptimizedCache' object does not support item assignment
+2025-02-18 22:41:57,347 - ERROR - 비동기 컨텍스트 검색 중 오류: 'OptimizedCache' object does not support item assignment
+2025-02-18 22:41:57,679 - ERROR - 비동기 컨텍스트 검색 중 오류: 'OptimizedCache' object does not support item assignment
+2025-02-18 22:41:58,392 - ERROR - 비동기 컨텍스트 검색 중 오류: 'OptimizedCache' object does not support item assignment
+2025-02-18 22:41:58,395 - ERROR - 비동기 질문 처리 중 오류 발생: 'OptimizedCache' object does not support item assignment
+2025-02-18 22:41:58,409 - ERROR - 비동기 질문 처리 중 오류 발생: 'OptimizedCache' object does not support item assignment
+2025-02-18 22:41:59,312 - ERROR - 비동기 질문 처리 중 오류 발생: 'OptimizedCache' object does not support item assignment
+2025-02-18 22:41:59,727 - ERROR - 비동기 컨텍스트 검색 중 오류: 'OptimizedCache' object does not support item assignment
+2025-02-18 22:41:59,993 - ERROR - 비동기 컨텍스트 검색 중 오류: 'OptimizedCache' object does not support item assignment
+2025-02-18 22:42:00,453 - ERROR - 비동기 컨텍스트 검색 중 오류: 'OptimizedCache' object does not support item assignment
+2025-02-18 22:42:00,455 - ERROR - 비동기 질문 처리 중 오류 발생: 'OptimizedCache' object does not support item assignment
+2025-02-18 22:42:00,456 - ERROR - 비동기 질문 처리 중 오류 발생: 'OptimizedCache' object does not support item assignment
+2025-02-18 22:42:01,154 - ERROR - 비동기 질문 처리 중 오류 발생: 'OptimizedCache' object does not support item assignment
+2025-02-18 22:42:01,568 - ERROR - 비동기 컨텍스트 검색 중 오류: 'OptimizedCache' object does not support item assignment
+2025-02-18 22:42:01,876 - ERROR - 비동기 컨텍스트 검색 중 오류: 'OptimizedCache' object does not support item assignment
+2025-02-18 22:42:02,287 - ERROR - 비동기 컨텍스트 검색 중 오류: 'OptimizedCache' object does not support item assignment
+2025-02-18 22:42:02,289 - ERROR - 비동기 질문 처리 중 오류 발생: 'OptimizedCache' object does not support item assignment
+2025-02-18 22:42:02,290 - ERROR - 비동기 질문 처리 중 오류 발생: 'OptimizedCache' object does not support item assignment
+2025-02-18 22:42:02,793 - ERROR - 비동기 질문 처리 중 오류 발생: 'OptimizedCache' object does not support item assignment
+2025-02-18 22:42:02,907 - INFO - 리소스 정리 완료
+2025-02-18 22:46:32,288 - INFO - Loaded 9 precomputed embeddings
+2025-02-18 22:46:32,382 - ERROR - 비동기 질문 처리 중 오류 발생: 'OptimizedCache' object has no attribute 'cache'
+2025-02-18 22:46:32,483 - ERROR - 비동기 질문 처리 중 오류 발생: 'OptimizedCache' object has no attribute 'cache'
+2025-02-18 22:46:32,539 - ERROR - 비동기 질문 처리 중 오류 발생: 'OptimizedCache' object has no attribute 'cache'
+2025-02-18 22:46:32,540 - ERROR - 비동기 질문 처리 중 오류 발생: 'OptimizedCache' object has no attribute 'cache'
+2025-02-18 22:46:32,540 - ERROR - 비동기 질문 처리 중 오류 발생: 'OptimizedCache' object has no attribute 'cache'
+2025-02-18 22:46:32,540 - ERROR - 비동기 질문 처리 중 오류 발생: 'OptimizedCache' object has no attribute 'cache'
+2025-02-18 22:46:32,540 - ERROR - 비동기 질문 처리 중 오류 발생: 'OptimizedCache' object has no attribute 'cache'
+2025-02-18 22:46:32,540 - ERROR - 비동기 질문 처리 중 오류 발생: 'OptimizedCache' object has no attribute 'cache'
+2025-02-18 22:46:32,541 - ERROR - 비동기 질문 처리 중 오류 발생: 'OptimizedCache' object has no attribute 'cache'
+2025-02-18 22:46:32,541 - ERROR - 비동기 질문 처리 중 오류 발생: 'OptimizedCache' object has no attribute 'cache'
+2025-02-18 22:46:32,542 - ERROR - 비동기 질문 처리 중 오류 발생: 'OptimizedCache' object has no attribute 'cache'
+2025-02-18 22:46:32,542 - ERROR - 비동기 질문 처리 중 오류 발생: 'OptimizedCache' object has no attribute 'cache'
+2025-02-18 22:46:32,542 - ERROR - 비동기 질문 처리 중 오류 발생: 'OptimizedCache' object has no attribute 'cache'
+2025-02-18 22:46:32,542 - ERROR - 비동기 질문 처리 중 오류 발생: 'OptimizedCache' object has no attribute 'cache'
+2025-02-18 22:46:32,543 - ERROR - 비동기 질문 처리 중 오류 발생: 'OptimizedCache' object has no attribute 'cache'
+2025-02-18 22:46:32,543 - ERROR - 비동기 질문 처리 중 오류 발생: 'OptimizedCache' object has no attribute 'cache'
+2025-02-18 22:46:32,543 - ERROR - 비동기 질문 처리 중 오류 발생: 'OptimizedCache' object has no attribute 'cache'
+2025-02-18 22:46:32,572 - INFO - 리소스 정리 완료
+2025-02-18 22:50:06,611 - INFO - Loaded 9 precomputed embeddings
+2025-02-18 22:50:17,712 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 11.03초 (평균: 11.03초)
+        - 캐시 적중률: 0.00%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.79, 'structure': 1.0}
+        
+2025-02-18 22:50:28,098 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 10.28초 (평균: 10.65초)
+        - 캐시 적중률: 50.00%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.75, 'structure': 1.0}
+        
+2025-02-18 22:50:38,790 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 10.61초 (평균: 10.64초)
+        - 캐시 적중률: 28.57%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.84, 'structure': 1.0}
+        
+2025-02-18 22:50:42,889 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 14.71초 (평균: 11.66초)
+        - 캐시 적중률: 28.57%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.84, 'structure': 1.0}
+        
+2025-02-18 22:50:44,329 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 16.15초 (평균: 12.55초)
+        - 캐시 적중률: 28.57%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.82, 'structure': 1.0}
+        
+2025-02-18 22:50:44,844 - ERROR - 리소스 정리 중 오류 발생: 'OptimizedCache' object has no attribute '_cache'
+2025-02-18 22:56:29,061 - INFO - Loaded 9 precomputed embeddings
+2025-02-18 22:56:43,908 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 14.77초 (평균: 14.77초)
+        - 캐시 적중률: 0.00%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.89, 'structure': 1.0}
+        
+2025-02-18 22:56:44,076 - INFO - 리소스 정리 완료
+2025-02-18 22:56:44,155 - INFO - Loaded 9 precomputed embeddings
+2025-02-18 22:56:54,982 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 10.80초 (평균: 10.80초)
+        - 캐시 적중률: 0.00%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.89, 'structure': 1.0}
+        
+2025-02-18 22:56:55,046 - INFO - 리소스 정리 완료
+2025-02-18 22:56:55,084 - INFO - Loaded 9 precomputed embeddings
+2025-02-18 22:57:06,574 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 11.46초 (평균: 11.46초)
+        - 캐시 적중률: 0.00%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.76, 'structure': 1.0}
+        
+2025-02-18 22:57:06,641 - INFO - 리소스 정리 완료
+2025-02-18 22:57:06,674 - INFO - Loaded 9 precomputed embeddings
+2025-02-18 22:57:17,538 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 10.84초 (평균: 10.84초)
+        - 캐시 적중률: 0.00%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.77, 'structure': 1.0}
+        
+2025-02-18 22:57:22,682 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 15.98초 (평균: 13.41초)
+        - 캐시 적중률: 0.00%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.82, 'structure': 1.0}
+        
+2025-02-18 22:57:23,995 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 17.29초 (평균: 14.70초)
+        - 캐시 적중률: 0.00%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.83, 'structure': 1.0}
+        
+2025-02-18 22:57:24,045 - INFO - 리소스 정리 완료
+2025-02-18 22:57:24,080 - INFO - Loaded 9 precomputed embeddings
+2025-02-18 22:57:24,145 - INFO - 리소스 정리 완료
+2025-02-18 22:57:24,175 - INFO - Loaded 9 precomputed embeddings
+2025-02-18 22:57:24,234 - INFO - 리소스 정리 완료
+2025-02-18 22:57:24,264 - INFO - Loaded 9 precomputed embeddings
+2025-02-18 22:57:34,845 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 10.55초 (평균: 10.55초)
+        - 캐시 적중률: 0.00%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.91, 'structure': 1.0}
+        
+2025-02-18 22:57:34,895 - INFO - 리소스 정리 완료
+2025-02-18 22:57:34,929 - INFO - Loaded 9 precomputed embeddings
+2025-02-18 22:57:49,080 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 14.12초 (평균: 14.12초)
+        - 캐시 적중률: 0.00%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.86, 'structure': 1.0}
+        
+2025-02-18 22:57:49,138 - INFO - 리소스 정리 완료
+2025-02-18 22:58:39,592 - INFO - Loaded 9 precomputed embeddings
+2025-02-18 22:58:54,147 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 14.48초 (평균: 14.48초)
+        - 캐시 적중률: 0.00%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.84, 'structure': 1.0}
+        
+2025-02-18 22:58:54,315 - INFO - 리소스 정리 완료
+2025-02-18 22:58:54,398 - INFO - Loaded 9 precomputed embeddings
+2025-02-18 22:59:05,326 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 10.90초 (평균: 10.90초)
+        - 캐시 적중률: 0.00%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.84, 'structure': 1.0}
+        
+2025-02-18 22:59:05,379 - INFO - 리소스 정리 완료
+2025-02-18 22:59:05,418 - INFO - Loaded 9 precomputed embeddings
+2025-02-18 22:59:21,754 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 16.31초 (평균: 16.31초)
+        - 캐시 적중률: 0.00%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.8, 'structure': 1.0}
+        
+2025-02-18 22:59:21,806 - INFO - 리소스 정리 완료
+2025-02-18 22:59:21,839 - INFO - Loaded 9 precomputed embeddings
+2025-02-18 22:59:33,830 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 11.96초 (평균: 11.96초)
+        - 캐시 적중률: 0.00%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.81, 'structure': 1.0}
+        
+2025-02-18 22:59:36,602 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 14.74초 (평균: 13.35초)
+        - 캐시 적중률: 0.00%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.79, 'structure': 1.0}
+        
+2025-02-18 22:59:40,040 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 18.17초 (평균: 14.96초)
+        - 캐시 적중률: 0.00%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.77, 'structure': 1.0}
+        
+2025-02-18 22:59:40,101 - INFO - 리소스 정리 완료
+2025-02-18 22:59:40,133 - INFO - Loaded 9 precomputed embeddings
+2025-02-18 22:59:40,195 - INFO - 리소스 정리 완료
+2025-02-18 22:59:40,225 - INFO - Loaded 9 precomputed embeddings
+2025-02-18 22:59:40,283 - INFO - 리소스 정리 완료
+2025-02-18 22:59:40,312 - INFO - Loaded 9 precomputed embeddings
+2025-02-18 22:59:52,883 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 12.54초 (평균: 12.54초)
+        - 캐시 적중률: 0.00%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.89, 'structure': 1.0}
+        
+2025-02-18 22:59:52,944 - INFO - 리소스 정리 완료
+2025-02-18 22:59:52,977 - INFO - Loaded 9 precomputed embeddings
+2025-02-18 23:00:06,309 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 13.30초 (평균: 13.30초)
+        - 캐시 적중률: 0.00%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.79, 'structure': 1.0}
+        
+2025-02-18 23:00:06,359 - INFO - 리소스 정리 완료
+2025-02-18 23:03:53,348 - INFO - Loaded 9 precomputed embeddings
+2025-02-18 23:04:05,826 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 12.40초 (평균: 12.40초)
+        - 캐시 적중률: 0.00%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.87, 'structure': 1.0}
+        
+2025-02-18 23:04:19,023 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 13.09초 (평균: 12.74초)
+        - 캐시 적중률: 50.00%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.82, 'structure': 1.0}
+        
+2025-02-18 23:04:31,512 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 12.38초 (평균: 12.62초)
+        - 캐시 적중률: 28.57%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.84, 'structure': 1.0}
+        
+2025-02-18 23:04:32,027 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 12.90초 (평균: 12.69초)
+        - 캐시 적중률: 28.57%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.77, 'structure': 1.0}
+        
+2025-02-18 23:04:36,738 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 17.61초 (평균: 13.68초)
+        - 캐시 적중률: 28.57%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.85, 'structure': 1.0}
+        
+2025-02-18 23:04:48,102 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 11.36초 (평균: 13.29초)
+        - 캐시 적중률: 40.00%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.75, 'structure': 1.0}
+        
+2025-02-18 23:04:48,618 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 11.88초 (평균: 13.09초)
+        - 캐시 적중률: 40.00%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.84, 'structure': 1.0}
+        
+2025-02-18 23:04:50,244 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 13.50초 (평균: 13.14초)
+        - 캐시 적중률: 40.00%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.75, 'structure': 1.0}
+        
+2025-02-18 23:05:01,929 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 11.67초 (평균: 12.98초)
+        - 캐시 적중률: 41.67%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.89, 'structure': 1.0}
+        
+2025-02-18 23:05:02,089 - INFO - 리소스 정리 완료
+2025-02-18 23:10:19,307 - INFO - Loaded 9 precomputed embeddings
+2025-02-18 23:10:33,236 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 13.85초 (평균: 13.85초)
+        - 캐시 적중률: 0.00%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.87, 'structure': 1.0}
+        
+2025-02-18 23:10:47,483 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 14.14초 (평균: 13.99초)
+        - 캐시 적중률: 50.00%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.84, 'structure': 1.0}
+        
+2025-02-18 23:10:59,816 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 12.22초 (평균: 13.40초)
+        - 캐시 적중률: 28.57%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.81, 'structure': 1.0}
+        
+2025-02-18 23:11:01,764 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 14.17초 (평균: 13.59초)
+        - 캐시 적중률: 28.57%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.8, 'structure': 1.0}
+        
+2025-02-18 23:11:04,835 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 17.24초 (평균: 14.32초)
+        - 캐시 적중률: 28.57%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.81, 'structure': 1.0}
+        
+2025-02-18 23:11:18,145 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 13.31초 (평균: 14.15초)
+        - 캐시 적중률: 40.00%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.84, 'structure': 1.0}
+        
+2025-02-18 23:11:19,478 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 14.64초 (평균: 14.22초)
+        - 캐시 적중률: 40.00%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.81, 'structure': 1.0}
+        
+2025-02-18 23:11:22,655 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 17.82초 (평균: 14.67초)
+        - 캐시 적중률: 40.00%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.82, 'structure': 1.0}
+        
+2025-02-18 23:11:24,173 - INFO - 리소스 정리 완료
+2025-02-18 23:11:24,437 - ERROR - 비동기 질문 처리 중 오류 발생: coroutine ignored GeneratorExit
+2025-02-18 23:28:12,134 - INFO - Loaded 9 precomputed embeddings
+2025-02-19 02:23:59,854 - INFO - Loaded 9 precomputed embeddings
+2025-02-19 02:38:15,235 - INFO - Loaded 9 precomputed embeddings
+2025-02-19 02:38:15,312 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-3' coro=<test_cache_functionality() running at /Users/iseungbyeong/Projects/dalgurak-ai/tests/test_optimized_rag.py:60> cb=[_run_until_complete_cb() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/base_events.py:184]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:38:15,413 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-3' coro=<test_cache_functionality() running at /Users/iseungbyeong/Projects/dalgurak-ai/tests/test_optimized_rag.py:64> cb=[_run_until_complete_cb() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/base_events.py:184]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:38:15,470 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-8' coro=<test_quality_metrics() running at /Users/iseungbyeong/Projects/dalgurak-ai/tests/test_optimized_rag.py:74> cb=[_run_until_complete_cb() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/base_events.py:184]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:38:15,471 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-13' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:38:15,471 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-14' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:38:15,471 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-15' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:38:15,472 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-23' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:38:15,472 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-24' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:38:15,472 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-25' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:38:15,474 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-33' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:38:15,474 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-34' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:38:15,474 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-35' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:38:15,677 - INFO - 리소스 정리 완료
+2025-02-19 02:39:55,141 - INFO - Loaded 9 precomputed embeddings
+2025-02-19 02:39:55,219 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-3' coro=<test_cache_functionality() running at /Users/iseungbyeong/Projects/dalgurak-ai/tests/test_optimized_rag.py:72> cb=[_run_until_complete_cb() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/base_events.py:184]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:39:55,321 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-3' coro=<test_cache_functionality() running at /Users/iseungbyeong/Projects/dalgurak-ai/tests/test_optimized_rag.py:76> cb=[_run_until_complete_cb() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/base_events.py:184]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:39:55,376 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-8' coro=<test_quality_metrics() running at /Users/iseungbyeong/Projects/dalgurak-ai/tests/test_optimized_rag.py:86> cb=[_run_until_complete_cb() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/base_events.py:184]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:39:55,377 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-13' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:39:55,377 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-14' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:39:55,377 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-15' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:39:55,377 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-23' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:39:55,377 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-24' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:39:55,377 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-25' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:39:55,379 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-33' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:39:55,379 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-34' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:39:55,379 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-35' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:39:55,578 - INFO - 리소스 정리 완료
+2025-02-19 02:44:21,058 - INFO - Loaded 9 precomputed embeddings
+2025-02-19 02:45:00,229 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 39.09초 (평균: 39.09초)
+        - 캐시 적중률: 0.00%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.88, 'structure': 1.0}
+        
+2025-02-19 02:45:16,295 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 15.96초 (평균: 27.53초)
+        - 캐시 적중률: 50.00%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.81, 'structure': 1.0}
+        
+2025-02-19 02:45:29,077 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 12.71초 (평균: 22.59초)
+        - 캐시 적중률: 28.57%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.76, 'structure': 1.0}
+        
+2025-02-19 02:45:29,812 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 13.45초 (평균: 20.30초)
+        - 캐시 적중률: 28.57%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.8, 'structure': 1.0}
+        
+2025-02-19 02:45:35,650 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 19.28초 (평균: 20.10초)
+        - 캐시 적중률: 28.57%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.82, 'structure': 1.0}
+        
+2025-02-19 02:45:47,627 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 11.97초 (평균: 18.74초)
+        - 캐시 적중률: 40.00%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.85, 'structure': 1.0}
+        
+2025-02-19 02:45:48,959 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 13.31초 (평균: 17.97초)
+        - 캐시 적중률: 40.00%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.85, 'structure': 1.0}
+        
+2025-02-19 02:45:49,984 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 14.33초 (평균: 17.51초)
+        - 캐시 적중률: 40.00%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.8, 'structure': 1.0}
+        
+2025-02-19 02:45:51,644 - INFO - 리소스 정리 완료
+2025-02-19 02:45:52,384 - ERROR - 비동기 질문 처리 중 오류 발생: coroutine ignored GeneratorExit
+2025-02-19 02:45:52,384 - ERROR - 비동기 질문 처리 중 오류 발생: coroutine ignored GeneratorExit
+2025-02-19 02:48:22,231 - INFO - Loaded 9 precomputed embeddings
+2025-02-19 02:48:22,326 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-3' coro=<test_cache_functionality() running at /Users/iseungbyeong/Projects/dalgurak-ai/tests/test_optimized_rag.py:72> cb=[_run_until_complete_cb() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/base_events.py:184]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:48:22,427 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-3' coro=<test_cache_functionality() running at /Users/iseungbyeong/Projects/dalgurak-ai/tests/test_optimized_rag.py:76> cb=[_run_until_complete_cb() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/base_events.py:184]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:48:22,485 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-8' coro=<test_quality_metrics() running at /Users/iseungbyeong/Projects/dalgurak-ai/tests/test_optimized_rag.py:86> cb=[_run_until_complete_cb() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/base_events.py:184]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:48:22,486 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-13' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:48:22,486 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-14' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:48:22,486 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-15' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:48:22,487 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-23' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:48:22,487 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-24' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:48:22,487 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-25' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:48:22,489 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-33' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:48:22,489 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-34' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:48:22,489 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-35' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:48:22,690 - INFO - 리소스 정리 완료
+2025-02-19 02:48:54,996 - INFO - Loaded 9 precomputed embeddings
+2025-02-19 02:48:55,093 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-3' coro=<test_cache_functionality() running at /Users/iseungbyeong/Projects/dalgurak-ai/tests/test_optimized_rag.py:60> cb=[_run_until_complete_cb() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/base_events.py:184]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:48:55,195 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-3' coro=<test_cache_functionality() running at /Users/iseungbyeong/Projects/dalgurak-ai/tests/test_optimized_rag.py:64> cb=[_run_until_complete_cb() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/base_events.py:184]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:48:55,254 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-8' coro=<test_quality_metrics() running at /Users/iseungbyeong/Projects/dalgurak-ai/tests/test_optimized_rag.py:74> cb=[_run_until_complete_cb() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/base_events.py:184]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:48:55,254 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-13' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:48:55,255 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-14' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:48:55,255 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-15' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:48:55,255 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-23' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:48:55,255 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-24' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:48:55,255 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-25' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:48:55,257 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-33' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:48:55,257 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-34' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:48:55,257 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-35' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:48:55,472 - INFO - 리소스 정리 완료
+2025-02-19 02:49:41,970 - INFO - Loaded 9 precomputed embeddings
+2025-02-19 02:49:42,047 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-3' coro=<test_cache_functionality() running at /Users/iseungbyeong/Projects/dalgurak-ai/tests/test_optimized_rag.py:72> cb=[_run_until_complete_cb() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/base_events.py:184]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:49:42,148 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-3' coro=<test_cache_functionality() running at /Users/iseungbyeong/Projects/dalgurak-ai/tests/test_optimized_rag.py:76> cb=[_run_until_complete_cb() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/base_events.py:184]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:49:42,198 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-8' coro=<test_quality_metrics() running at /Users/iseungbyeong/Projects/dalgurak-ai/tests/test_optimized_rag.py:86> cb=[_run_until_complete_cb() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/base_events.py:184]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:49:42,199 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-13' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:49:42,199 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-14' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:49:42,199 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-15' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:49:42,200 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-23' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:49:42,200 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-24' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:49:42,200 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-25' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:49:42,202 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-33' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:49:42,202 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-34' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:49:42,202 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-35' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 02:49:42,402 - INFO - 리소스 정리 완료
+2025-02-19 16:42:16,488 - INFO - Loaded 9 precomputed embeddings
+2025-02-19 16:42:16,582 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-3' coro=<test_cache_functionality() running at /Users/iseungbyeong/Projects/dalgurak-ai/tests/test_optimized_rag.py:59> cb=[_run_until_complete_cb() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/base_events.py:184]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 16:42:16,684 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-3' coro=<test_cache_functionality() running at /Users/iseungbyeong/Projects/dalgurak-ai/tests/test_optimized_rag.py:63> cb=[_run_until_complete_cb() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/base_events.py:184]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 16:42:16,739 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-8' coro=<test_quality_metrics() running at /Users/iseungbyeong/Projects/dalgurak-ai/tests/test_optimized_rag.py:73> cb=[_run_until_complete_cb() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/base_events.py:184]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 16:42:16,739 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-13' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 16:42:16,740 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-14' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 16:42:16,740 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-15' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 16:42:16,740 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-23' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 16:42:16,740 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-24' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 16:42:16,740 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-25' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 16:42:16,742 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-33' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 16:42:16,742 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-34' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 16:42:16,742 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-35' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:681> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 16:42:16,943 - INFO - 리소스 정리 완료
+2025-02-19 16:45:00,927 - INFO - Loaded 9 precomputed embeddings
+2025-02-19 16:45:01,020 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-3' coro=<test_cache_functionality() running at /Users/iseungbyeong/Projects/dalgurak-ai/tests/test_optimized_rag.py:59> cb=[_run_until_complete_cb() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/base_events.py:184]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 16:45:01,122 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-3' coro=<test_cache_functionality() running at /Users/iseungbyeong/Projects/dalgurak-ai/tests/test_optimized_rag.py:63> cb=[_run_until_complete_cb() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/base_events.py:184]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 16:45:01,181 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-8' coro=<test_quality_metrics() running at /Users/iseungbyeong/Projects/dalgurak-ai/tests/test_optimized_rag.py:73> cb=[_run_until_complete_cb() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/base_events.py:184]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 16:45:01,182 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-13' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:682> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 16:45:01,182 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-14' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:682> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 16:45:01,182 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-15' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:682> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 16:45:01,182 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-23' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:682> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 16:45:01,182 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-24' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:682> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 16:45:01,182 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-25' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:682> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 16:45:01,184 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-33' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:682> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 16:45:01,184 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-34' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:682> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 16:45:01,184 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-35' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:682> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 16:45:01,185 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-36' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:682> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 16:45:01,185 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-37' coro=<OptimizedRecipeRAG.ask_async() running at /Users/iseungbyeong/Projects/dalgurak-ai/src/rag/optimized_rag.py:682> cb=[_gather.<locals>._done_callback() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/tasks.py:767]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 16:45:01,185 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-48' coro=<test_memory_usage() running at /Users/iseungbyeong/Projects/dalgurak-ai/tests/test_optimized_rag.py:129> cb=[_run_until_complete_cb() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/base_events.py:184]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 16:45:01,186 - ERROR - 비동기 질문 처리 중 오류 발생: Task <Task pending name='Task-51' coro=<test_response_time() running at /Users/iseungbyeong/Projects/dalgurak-ai/tests/test_optimized_rag.py:142> cb=[_run_until_complete_cb() at /opt/homebrew/Caskroom/miniconda/base/envs/dalgurak/lib/python3.9/asyncio/base_events.py:184]> got Future <_GatheringFuture pending> attached to a different loop
+2025-02-19 16:45:10,858 - INFO - 리소스 정리 완료
+2025-02-19 16:47:39,435 - INFO - Loaded 9 precomputed embeddings
+2025-02-19 16:47:50,246 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 10.71초 (평균: 10.71초)
+        - 캐시 적중률: 0.00%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.87, 'structure': 1.0}
+        
+2025-02-19 16:48:09,556 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 19.20초 (평균: 14.96초)
+        - 캐시 적중률: 33.33%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.82, 'structure': 1.0}
+        
+2025-02-19 16:48:09,557 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 18.44초 (평균: 16.12초)
+        - 캐시 적중률: 33.33%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.84, 'structure': 1.0}
+        
+2025-02-19 16:48:09,558 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 17.19초 (평균: 16.39초)
+        - 캐시 적중률: 33.33%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.79, 'structure': 1.0}
+        
+2025-02-19 16:48:19,991 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 9.52초 (평균: 15.01초)
+        - 캐시 적중률: 44.44%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.81, 'structure': 1.0}
+        
+2025-02-19 16:48:21,836 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 12.28초 (평균: 14.56초)
+        - 캐시 적중률: 44.44%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.89, 'structure': 1.0}
+        
+2025-02-19 16:48:24,284 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 13.81초 (평균: 14.45초)
+        - 캐시 적중률: 44.44%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.87, 'structure': 1.0}
+        
+2025-02-19 16:48:41,805 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 14.74초 (평균: 14.49초)
+        - 캐시 적중률: 28.57%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.86, 'structure': 1.0}
+        
+2025-02-19 16:48:41,909 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 15.42초 (평균: 14.59초)
+        - 캐시 적중률: 28.57%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.8, 'structure': 1.0}
+        
+2025-02-19 16:48:42,421 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 18.13초 (평균: 14.94초)
+        - 캐시 적중률: 28.57%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.76, 'structure': 1.0}
+        
+2025-02-19 16:48:42,457 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 16.58초 (평균: 15.09초)
+        - 캐시 적중률: 28.57%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.8, 'structure': 1.0}
+        
+2025-02-19 16:48:46,125 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 20.89초 (평균: 15.58초)
+        - 캐시 적중률: 28.57%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.82, 'structure': 1.0}
+        
+2025-02-19 16:48:57,162 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 11.03초 (평균: 15.23초)
+        - 캐시 적중률: 31.25%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.84, 'structure': 1.0}
+        
+2025-02-19 16:53:10,860 - INFO - Loaded 9 precomputed embeddings
+2025-02-19 16:53:24,132 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 13.18초 (평균: 13.18초)
+        - 캐시 적중률: 0.00%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.84, 'structure': 1.0}
+        
+2025-02-19 16:53:39,171 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 14.34초 (평균: 13.76초)
+        - 캐시 적중률: 33.33%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.82, 'structure': 1.0}
+        
+2025-02-19 16:53:41,939 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 17.70초 (평균: 15.07초)
+        - 캐시 적중률: 33.33%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.8, 'structure': 1.0}
+        
+2025-02-19 16:53:47,466 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 21.81초 (평균: 16.76초)
+        - 캐시 적중률: 33.33%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.82, 'structure': 1.0}
+        
+2025-02-19 16:53:57,605 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 9.52초 (평균: 15.31초)
+        - 캐시 적중률: 44.44%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.81, 'structure': 1.0}
+        
+2025-02-19 16:53:58,533 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 11.06초 (평균: 14.60초)
+        - 캐시 적중률: 44.44%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.84, 'structure': 1.0}
+        
+2025-02-19 16:54:02,212 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 14.13초 (평균: 14.54초)
+        - 캐시 적중률: 44.44%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.84, 'structure': 1.0}
+        
+2025-02-19 16:54:12,660 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 7.38초 (평균: 13.64초)
+        - 캐시 적중률: 28.57%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.86, 'structure': 1.0}
+        
+2025-02-19 16:54:15,789 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 12.33초 (평균: 13.50초)
+        - 캐시 적중률: 28.57%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.84, 'structure': 1.0}
+        
+2025-02-19 16:54:15,886 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 11.52초 (평균: 13.30초)
+        - 캐시 적중률: 28.57%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.86, 'structure': 1.0}
+        
+2025-02-19 16:54:21,259 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 18.40초 (평균: 13.76초)
+        - 캐시 적중률: 28.57%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.74, 'structure': 1.0}
+        
+2025-02-19 16:54:25,245 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 23.03초 (평균: 14.53초)
+        - 캐시 적중률: 28.57%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.82, 'structure': 1.0}
+        
+2025-02-19 16:54:40,624 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 15.38초 (평균: 14.60초)
+        - 캐시 적중률: 31.25%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.85, 'structure': 1.0}
+        
+2025-02-19 16:56:10,821 - INFO - Loaded 9 precomputed embeddings
+2025-02-19 16:56:25,305 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 14.39초 (평균: 14.39초)
+        - 캐시 적중률: 0.00%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.89, 'structure': 1.0}
+        
+2025-02-19 16:56:39,508 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 14.09초 (평균: 14.24초)
+        - 캐시 적중률: 33.33%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.81, 'structure': 1.0}
+        
+2025-02-19 16:56:41,339 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 15.05초 (평균: 14.51초)
+        - 캐시 적중률: 33.33%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.88, 'structure': 1.0}
+        
+2025-02-19 16:56:41,461 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 14.48초 (평균: 14.50초)
+        - 캐시 적중률: 33.33%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.84, 'structure': 1.0}
+        
+2025-02-19 16:56:50,580 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 8.62초 (평균: 13.33초)
+        - 캐시 적중률: 44.44%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.82, 'structure': 1.0}
+        
+2025-02-19 16:56:51,783 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 9.83초 (평균: 12.74초)
+        - 캐시 적중률: 44.44%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.74, 'structure': 1.0}
+        
+2025-02-19 16:56:53,320 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 11.86초 (평균: 12.62초)
+        - 캐시 적중률: 44.44%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.89, 'structure': 1.0}
+        
+2025-02-19 16:57:05,322 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 9.23초 (평균: 12.19초)
+        - 캐시 적중률: 28.57%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.8, 'structure': 0.7}
+        
+2025-02-19 16:57:06,533 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 11.67초 (평균: 12.14초)
+        - 캐시 적중률: 28.57%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.8, 'structure': 1.0}
+        
+2025-02-19 16:57:07,976 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 14.65초 (평균: 12.39초)
+        - 캐시 적중률: 28.57%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.78, 'structure': 1.0}
+        
+2025-02-19 16:57:08,988 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 14.74초 (평균: 12.60초)
+        - 캐시 적중률: 28.57%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.76, 'structure': 1.0}
+        
+2025-02-19 16:57:10,219 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 14.74초 (평균: 12.78초)
+        - 캐시 적중률: 28.57%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.82, 'structure': 1.0}
+        
+2025-02-19 16:57:22,506 - INFO - 
+        성능 메트릭:
+        - 실행 시간: 12.28초 (평균: 12.74초)
+        - 캐시 적중률: 31.25%
+        - 품질 점수: {'completeness': 1.0, 'relevance': 0.87, 'structure': 1.0}
+        

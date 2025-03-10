@@ -1,0 +1,6 @@
+query,response_time,quality_metrics
+김치찌개 레시피 알려줘,4.9114227294921875e-05,"{'completeness': 1.0, 'relevance': 0.2, 'structure': 0.67}"
+양파 대신 뭘 써도 될까요?,1.4066696166992188e-05,"{'completeness': 1.0, 'relevance': 0.2, 'structure': 0.67}"
+매운 요리를 맵지 않게 하려면?,1.0013580322265625e-05,"{'completeness': 1.0, 'relevance': 0.2, 'structure': 0.67}"
+초보자도 쉽게 만들 수 있는 요리 추천해줘,1.0013580322265625e-05,"{'completeness': 1.0, 'relevance': 0.2, 'structure': 0.67}"
+된장찌개 끓일 때 팁이 있을까요?,1.71661376953125e-05,"{'completeness': 1.0, 'relevance': 0.4, 'structure': 0.67}"

@@ -1,0 +1,45 @@
+{
+  "timestamp": "20250212_144353",
+  "total_queries": 4,
+  "results": [
+    {
+      "question": "양파 대신 뭘 써도 될까요?",
+      "execution_time": 6.157493829727173,
+      "quality_metrics": {
+        "completeness": 0.0,
+        "relevance": 0.0,
+        "structure": 0.0,
+        "error": "One input key expected got ['question', 'context']"
+      }
+    },
+    {
+      "question": "마늘이 없을 때 어떻게 하나요?",
+      "execution_time": 3.464155912399292,
+      "quality_metrics": {
+        "completeness": 0.0,
+        "relevance": 0.0,
+        "structure": 0.0,
+        "error": "One input key expected got ['question', 'context']"
+      }
+    },
+    {
+      "question": "고추 대체재료 추천해주세요",
+      "execution_time": 7.990358114242554,
+      "quality_metrics": {
+        "completeness": 0.0,
+        "relevance": 0.30000000000000004,
+        "structure": 1.0
+      }
+    },
+    {
+      "question": "된장이 없을때는 뭘로 대체하나요?",
+      "execution_time": 5.527375936508179,
+      "quality_metrics": {
+        "completeness": 0.0,
+        "relevance": 0.0,
+        "structure": 0.0,
+        "error": "One input key expected got ['question', 'context']"
+      }
+    }
+  ]
+}
