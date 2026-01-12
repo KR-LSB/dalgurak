@@ -1,0 +1,106 @@
+# ====================================
+# Dalgurak .gitignore
+# ====================================
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# === Virtual Environment ===
+venv/
+ENV/
+env/
+.venv/
+
+# === IDE ===
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+
+# === Environment Variables ===
+.env
+.env.local
+.env.*.local
+*.env
+
+# === Logs ===
+*.log
+logs/
+recipe_rag.log
+
+# === Vector Database ===
+recipe_db/
+chroma_db/
+*.pkl
+*.pickle
+
+# === Data (Large Files) ===
+data/raw/
+data/processed/
+*.json.gz
+*.csv.gz
+
+# === Model Checkpoints ===
+models/
+*.pt
+*.pth
+*.safetensors
+*.bin
+
+# === OS ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Jupyter ===
+.ipynb_checkpoints/
+*.ipynb
+
+# === Test ===
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# === Build ===
+*.manifest
+*.spec
+
+# === Secrets ===
+secrets/
+*.pem
+*.key
+credentials.json
+
+# === Temporary ===
+tmp/
+temp/
+*.tmp
+*.bak
+
+# === Progress Files ===
+data/progress/

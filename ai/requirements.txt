@@ -1,0 +1,43 @@
+# ====================================
+# Dalgurak - AI Cooking Assistant
+# Python 3.10+ Required
+# ====================================
+
+# === Core AI/ML ===
+langchain>=0.1.0
+langchain-openai>=0.0.5
+langchain-chroma>=0.1.0
+openai>=1.12.0
+chromadb>=0.4.22
+
+# === Async Processing ===
+aiohttp>=3.9.0
+asyncio-throttle>=1.0.2
+
+# === Caching ===
+cachetools>=5.3.2
+
+# === Web Crawling ===
+selenium>=4.16.0
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+urllib3>=2.1.0
+
+# === Data Processing ===
+tqdm>=4.66.0
+pandas>=2.1.0
+
+# === Environment ===
+python-dotenv>=1.0.0
+
+# === Development ===
+pytest>=7.4.0
+pytest-asyncio>=0.23.0
+black>=23.12.0
+flake8>=6.1.0
+mypy>=1.8.0
+
+# === Optional: ML Model Training ===
+# torch>=2.1.0
+# transformers>=4.36.0
+# safetensors>=0.4.0
