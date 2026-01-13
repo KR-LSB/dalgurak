@@ -73,14 +73,14 @@
 | **Python + LangChain** | RAG 시스템 | 이승병 |
 | **OpenAI GPT-3.5** | 언어 모델 | 이승병 |
 | **Chroma DB** | 벡터 데이터베이스 | 이승병 |
-| **Spring Boot** | API 서버 | 심현채 |
-| **MySQL** | 관계형 데이터베이스 | 김진아 |
+| **Spring Boot** | API 서버 | 심현채, 이승병 |
+| **MySQL** | 관계형 데이터베이스 | 김진아, 심현채 |
 
 ### Frontend
 | 기술 | 용도 | 담당 |
 |:---:|:---:|:---:|
-| **React** | 웹 프론트엔드 | 박찬수 |
-| **Web Speech API** | 음성 인식 | 박찬수 |
+| **React** | 웹 프론트엔드 | 박찬수, 이승병 |
+| **Web Speech API** | 음성 인식 | 이승병 |
 
 ---
 
