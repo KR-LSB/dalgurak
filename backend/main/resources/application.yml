@@ -1,0 +1,74 @@
+server:
+  port: 8083
+  servlet:
+    encoding:
+      charset: UTF-8
+      force: true
+      enabled: true
+
+file:
+  path: "C:/Users/shc32/dalgrak-workspace/dalgrak/upload/"
+
+vapid:
+  publicKey: "BKvlqXuCx30QqYTO0qzNEpxut_wytiSVT5IIkaf09p6rAmytAO_tiIrAOJqqKByHzBokIrMLo0cE537c7tCbXYI"
+  privateKey: "a3ynwkyvu9tNvsM8fbBt4SH4pnxZg4fxvAK5kFrIAEI"
+  subject: "mailto:your-email@example.com"
+
+jwt:
+  secret: "your-long-secret-key-for-jwt-token-at-least-512-bits"
+  expiration: 86400000 # 24시간 (밀리초)
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/dalgrak
+    username: root
+    password: rootpw
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    database-platform: org.hibernate.dialect.MySQL8Dialect
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQLDialect
+        format_sql: true
+  jackson:
+    serialization:
+      indent-output: true
+    date-format: yyyy-MM-dd HH:mm:ss
+    time-zone: Asia/Seoul
+    default-property-inclusion: non_null
+
+# Swagger/OpenAPI 설정
+springdoc:
+  swagger-ui:
+    path: /swagger-ui/index.html
+  api-docs:
+    path: /v3/api-docs
+  packages-to-scan: springbootApplication.controller
+  default-consumes-media-type: application/json
+  default-produces-media-type: application/json
+  override-with-generic-response: false
+  disable-i18n: true
+  writer-with-default-pretty-printer: true
+
+# Python AI 서비스 설정
+python:
+  executable:
+    path: python
+  script:
+    directory: C:\Dalgrak\Ai\dalgurak-ai\src\rag
+
+# 로깅 설정
+logging:
+  charset:
+    console: UTF-8
+  level:
+    root: INFO
+    springbootApplication: INFO
+    org.springframework: INFO
+    org.hibernate: WARN
+  file:
+    path: logs
+    name: dalgurak.log

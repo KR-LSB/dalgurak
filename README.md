@@ -128,8 +128,32 @@ dalgurak/
 ├── 📂 frontend/                # React 프로젝트 (박찬수 담당)
 │
 ├── 📂 backend/                 # Spring Boot 프로젝트 (심현채 담당)
+│   └── 📂 main/
+│       ├── 📂 java/springbootApplication/
+│       │   ├── 📂 config/          # 설정 클래스
+│       │   ├── 📂 controller/      # REST API 컨트롤러
+│       │   ├── 📂 domain/          # JPA 엔티티
+│       │   ├── 📂 dto/             # 데이터 전송 객체
+│       │   ├── 📂 exception/       # 예외 처리
+│       │   ├── 📂 handler/         # WebSocket 핸들러
+│       │   ├── 📂 model/           # 도메인 모델
+│       │   ├── 📂 repository/      # 데이터 접근 계층
+│       │   ├── 📂 security/        # JWT, 인증 관련
+│       │   ├── 📂 service/         # 비즈니스 로직
+│       │   └── 📄 Application.java # 메인 클래스
+│       │
+│       ├── 📂 resources/
+│       │   ├── 📂 static/          # 정적 리소스
+│       │   ├── 📄 application.yml  # 애플리케이션 설정
+│       │   └── 📄 logback-spring.xml # 로깅 설정
+│       │
+│       └── 📂 webapp/
+│           ├── 📂 META-INF/
+│           └── 📂 WEB-INF/
 │
-└── 📂 docs/                    # 문서
+├── 📂 docs/                    # 문서
+│
+└── 📄 README.md
 ```
 
 ---
