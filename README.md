@@ -126,6 +126,225 @@ dalgurak/
 │       └── metrics.py          # 정확도/품질 측정
 │
 ├── 📂 frontend/                # React 프로젝트 (박찬수 담당)
+│   └── my-app-main/
+│       ├── src/
+│       │   ├── api/                    # API 설정
+│       │   │   ├── apiServices.js
+│       │   │   └── endpoints.js
+│       │   │
+│       │   ├── components/             # 공통 컴포넌트
+│       │   │   ├── animation/          # 애니메이션
+│       │   │   │   ├── FadeIn.jsx
+│       │   │   │   ├── index.js
+│       │   │   │   └── PageTransition.jsx
+│       │   │   ├── board/              # 게시판 컴포넌트
+│       │   │   │   ├── CommentSection.jsx
+│       │   │   │   ├── PostDetail.js
+│       │   │   │   └── PostList.js
+│       │   │   ├── chat/               # 채팅 컴포넌트
+│       │   │   │   ├── AiResponseComponent.jsx
+│       │   │   │   ├── ChatInterface.jsx
+│       │   │   │   ├── ChatMessage.jsx
+│       │   │   │   └── QuickSuggestions.jsx
+│       │   │   ├── common/             # 공통 UI
+│       │   │   │   ├── Button.jsx
+│       │   │   │   ├── Card.jsx
+│       │   │   │   ├── ErrorAlert.jsx
+│       │   │   │   ├── Header.jsx
+│       │   │   │   ├── Input.jsx
+│       │   │   │   ├── Layout.jsx
+│       │   │   │   └── LoadingSpinner.jsx
+│       │   │   ├── modals/
+│       │   │   │   └── CompletionModal.jsx
+│       │   │   ├── recipe/             # 레시피 컴포넌트
+│       │   │   │   ├── RecipeCard.jsx
+│       │   │   │   ├── RecipeGuide.jsx
+│       │   │   │   ├── RecipeStep.jsx
+│       │   │   │   └── RecipeView.jsx
+│       │   │   ├── timer/              # 타이머 컴포넌트
+│       │   │   │   ├── CircularTimerDisplay.jsx
+│       │   │   │   ├── TimerDisplay.jsx
+│       │   │   │   └── TimerNotification.jsx
+│       │   │   └── user/
+│       │   │       └── UserProfile.jsx
+│       │   │
+│       │   ├── constants/
+│       │   │   └── chatSuggestions.js
+│       │   │
+│       │   ├── data/
+│       │   │   └── dummyRecipes.js
+│       │   │
+│       │   ├── features/               # 기능별 모듈
+│       │   │   ├── auth/               # 인증
+│       │   │   │   ├── api/
+│       │   │   │   │   └── authApi.js
+│       │   │   │   ├── components/
+│       │   │   │   │   ├── AccountInfosection.jsx
+│       │   │   │   │   ├── Button.jsx
+│       │   │   │   │   ├── ErrorAlert.jsx
+│       │   │   │   │   ├── LoginForm.jsx
+│       │   │   │   │   ├── PersonalInfoSection.jsx
+│       │   │   │   │   ├── PhoneInput.jsx
+│       │   │   │   │   ├── PreferencesSection.jsx
+│       │   │   │   │   └── SignupForm.jsx
+│       │   │   │   ├── constants/
+│       │   │   │   │   └── formOptions.js
+│       │   │   │   ├── hooks/
+│       │   │   │   │   ├── useAuth.js
+│       │   │   │   │   └── useSignupForm.js
+│       │   │   │   └── utils/
+│       │   │   │       └── validations.js
+│       │   │   │
+│       │   │   ├── board/              # 게시판
+│       │   │   │   ├── api/
+│       │   │   │   │   ├── boardApi.js
+│       │   │   │   │   ├── commentApi.js
+│       │   │   │   │   ├── fileUploadApi.js
+│       │   │   │   │   ├── index.js
+│       │   │   │   │   ├── tagApi.js
+│       │   │   │   │   └── types.js
+│       │   │   │   ├── components/
+│       │   │   │   │   ├── BoardFilter.jsx
+│       │   │   │   │   ├── BoardHeader.jsx
+│       │   │   │   │   ├── BoardList.jsx
+│       │   │   │   │   ├── CategoryFilter.jsx
+│       │   │   │   │   ├── CategorySelector.jsx
+│       │   │   │   │   ├── ImageUploader.jsx
+│       │   │   │   │   ├── Pagination.jsx
+│       │   │   │   │   ├── RecipeDetailsForm.jsx
+│       │   │   │   │   ├── SearchBar.jsx
+│       │   │   │   │   ├── TagFilter.jsx
+│       │   │   │   │   └── TagInput.jsx
+│       │   │   │   ├── hooks/
+│       │   │   │   │   ├── useBoardData.js
+│       │   │   │   │   ├── useBoardDetail.js
+│       │   │   │   │   ├── useBoardForm.js
+│       │   │   │   │   └── useImageUpload.js
+│       │   │   │   └── index.js
+│       │   │   │
+│       │   │   ├── chat/               # 채팅
+│       │   │   │   ├── api/
+│       │   │   │   │   ├── chatApi.js
+│       │   │   │   │   └── index.js
+│       │   │   │   ├── components/
+│       │   │   │   │   └── ChatContainer.jsx
+│       │   │   │   ├── hooks/
+│       │   │   │   │   ├── index.js
+│       │   │   │   │   ├── useChatAPI.js
+│       │   │   │   │   ├── useMessageState.js
+│       │   │   │   │   ├── useRecipeParsing.js
+│       │   │   │   │   └── useVoiceWithChat.js
+│       │   │   │   └── utils/
+│       │   │   │       ├── chatUtils.js
+│       │   │   │       └── index.js
+│       │   │   │
+│       │   │   ├── cooking/            # 요리 가이드
+│       │   │   │   ├── hooks/
+│       │   │   │   │   └── useCookingGuide.js
+│       │   │   │   ├── CookingGuideContainer.jsx
+│       │   │   │   └── CookingProgressBar.jsx
+│       │   │   │
+│       │   │   ├── home/               # 홈
+│       │   │   │   ├── api/
+│       │   │   │   │   ├── chatApi.js
+│       │   │   │   │   ├── homeApi.js
+│       │   │   │   │   └── recipeApi.js
+│       │   │   │   └── components/
+│       │   │   │       ├── RecipeList.jsx
+│       │   │   │       ├── UserProfileBadge.jsx
+│       │   │   │       └── WelcomeHeader.jsx
+│       │   │   │
+│       │   │   ├── recipe/             # 레시피
+│       │   │   │   ├── api/
+│       │   │   │   │   ├── index.js
+│       │   │   │   │   ├── recipeApi.js
+│       │   │   │   │   └── types.js
+│       │   │   │   ├── components/
+│       │   │   │   │   ├── RecipeCard.jsx
+│       │   │   │   │   ├── RecipeListContainer.jsx
+│       │   │   │   │   └── RecipeLoadingUI.jsx
+│       │   │   │   └── hooks/
+│       │   │   │       ├── useFavorites.js
+│       │   │   │       └── useRecipes.js
+│       │   │   │
+│       │   │   └── user/               # 사용자
+│       │   │       ├── api/
+│       │   │       │   └── userApi.js
+│       │   │       └── hooks/
+│       │   │           ├── UserProfile.jsx
+│       │   │           └── useUserProfile.js
+│       │   │
+│       │   ├── hooks/                  # 전역 훅
+│       │   │   ├── useChatBot.js
+│       │   │   ├── useRecipeTimer.js
+│       │   │   └── useVoiceRecognition.jsx
+│       │   │
+│       │   ├── mocks/
+│       │   │   └── boardData.js
+│       │   │
+│       │   ├── pages/                  # 페이지
+│       │   │   ├── Board.jsx
+│       │   │   ├── BoardDetail.jsx
+│       │   │   ├── BoardEdit.jsx
+│       │   │   ├── BoardWrite.jsx
+│       │   │   ├── CookingGuide.jsx
+│       │   │   ├── Favorites.jsx
+│       │   │   ├── Home.jsx
+│       │   │   ├── Login.jsx
+│       │   │   ├── MyPage.jsx
+│       │   │   ├── ReviewList.jsx
+│       │   │   └── Signup.jsx
+│       │   │
+│       │   ├── services/
+│       │   │   └── recipeGuideService.js
+│       │   │
+│       │   ├── shared/                 # 공유 모듈
+│       │   │   └── api/
+│       │   │       ├── base/
+│       │   │       │   ├── index.js
+│       │   │       │   ├── instance.js
+│       │   │       │   └── interceptors.js
+│       │   │       ├── config/
+│       │   │       │   └── endpoints.js
+│       │   │       └── lib/
+│       │   │           ├── debugger.js
+│       │   │           └── errorHandler.js
+│       │   │
+│       │   ├── sounds/
+│       │   │   └── timer-end.mp3
+│       │   │
+│       │   ├── store/                  # 상태 관리
+│       │   │   ├── atoms.js
+│       │   │   ├── boardState.js
+│       │   │   └── comments.js
+│       │   │
+│       │   ├── style/
+│       │   │   └── animations.css
+│       │   │
+│       │   ├── utils/                  # 유틸리티
+│       │   │   ├── api.js
+│       │   │   ├── apiDebugger.js
+│       │   │   ├── chromeSpeechUtils.js
+│       │   │   ├── mockApi.js
+│       │   │   ├── mockDataUtils.js
+│       │   │   └── recipeUtils.js
+│       │   │
+│       │   ├── App.css
+│       │   ├── App.jsx
+│       │   ├── index.css
+│       │   └── main.jsx
+│       │
+│       ├── .env
+│       ├── .env.development
+│       ├── .env.production
+│       ├── .env.test
+│       ├── Dockerfile
+│       ├── eslint.config.js
+│       ├── index.html
+│       ├── nginx.conf
+│       ├── package.json
+│       ├── tailwind.config.cjs
+│       └── vite.config.js
 │
 ├── 📂 backend/                 # Spring Boot 프로젝트 (심현채 담당)
 │   └── 📂 main/
